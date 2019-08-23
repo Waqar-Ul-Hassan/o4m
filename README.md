@@ -5,5 +5,5 @@ Research doc: https://docs.google.com/document/d/1alL1QCqxgWxRnWkzVt7dvJcoi5qlsF
 
 # Log
 
-July 21: Nasar - Made github repo
-Aug 21: Rafeed - Finished research
+- July 21: Nasar - Made github repo
+- Aug 21: Rafeed - Finished research

@@ -73,6 +73,19 @@ h1, h2, h3, h4, h5, h6 {
   .h-md-250 { height: 250px; }
 }
 
+textarea{  
+  display: block;
+  box-sizing: padding-box;
+  overflow: hidden;
+  resize: none;
+
+  padding: 10px;
+  width: 700px;
+  font-size: 14px;
+  border-radius: 6px;
+  box-shadow: 2px 2px 8px rgba(black, .3);
+}
+
 /*
  * Blog name and description
  */

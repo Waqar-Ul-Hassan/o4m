@@ -80,22 +80,10 @@ textarea{
   resize: none;
 
   padding: 10px;
-  width: 250px;
+  width: 50px;
   font-size: 14px;
   border-radius: 6px;
   box-shadow: 2px 2px 8px rgba(black, .3);
-}
-
-@media (max-width: 480px) {
-    .autoExpand{
-       margin-left: 20px;
-    }
-}
-
-@media (max-width: 320px) {
-    .autoExpand{
-       margin-left: 10px;
-    }
 }
 /*
  * Blog name and description

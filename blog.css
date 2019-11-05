@@ -140,3 +140,7 @@ textarea{
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+#zero-padding {
+  padding-bottom: initial!important;
+}

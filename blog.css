@@ -146,7 +146,7 @@ textarea{
   background-color: #ccc;
 }
 
-.button.accordion:after {
+button.accordion:after {
   content: '\002B';
   color: #000000;
   font-weight: bold;
@@ -154,7 +154,7 @@ textarea{
   margin-left: 5px;
 }
 
-.button.accordion.active:after {
+button.accordion.active:after {
   content: "\2212";
 }
 

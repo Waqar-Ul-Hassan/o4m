@@ -141,7 +141,7 @@
             <p><em>For more general information click <a href="https://www.ontario.ca/page/learn-about-osap" target="_blank">here</a>.</em></p>
     
             <h4 id="second">Grace period: What is it?</h4>
-            <p>The <strong>Grace period</strong> is a 6-month period that begins after you graduate or leave school. During this period, you are not required to start repaying your loan. However, what many students don’t realize is that during this period, <strong>interest starts to accumulate<a href="https://www.ontario.ca/page/pay-back-osap" target="_blank"> (check "Pay back OSAP")</a></strong>. Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged <a href="https://www.csnpe-nslsc.canada.ca/en/glossary" target="_blank">(check "Non-repayment")</a> on the federal portion of your loan, but it is charged on the provinical portion.* After the 6-month grace period, interest will accumulate on both components of the loan.</p>
+            <p>The <strong>Grace period</strong> is a 6-month period that begins after you graduate or leave school. During this period, you are not required to start repaying your loan. However, what many students don’t realize is that during this period, <strong>interest starts to accumulate</strong><a href="https://www.ontario.ca/page/pay-back-osap" target="_blank"> (check "Pay back OSAP")</a>. Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged <a href="https://www.csnpe-nslsc.canada.ca/en/glossary" target="_blank">(check "Non-repayment")</a> on the federal portion of your loan, but it is charged on the provinical portion.* After the 6-month grace period, interest will accumulate on both components of the loan.</p>
             <p>*<strong>Note:</strong> After the <a href="https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html" target="_blank">changes made by the provincial government</a>, interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion. </p>
             
             <h4>Grace period: Forgiven Interest</h4>
@@ -285,9 +285,11 @@
             <p>If you would like to stay in the loop about our future projects or would like to get involved please subscribe to our newsletter.</p>
             <p><em>Don't worry, we don't like spam emails either. We'll only email when we need to.</em></p>
             <div>
-              <textarea class='autoExpand' rows='1' data-min-rows='3' placeholder="e-mail address"></textarea><br>
-              <textarea class='autoExpand' rows='3' data-min-rows='3' placeholder="comments"></textarea><br>
-              <button class="btn btn-dark" type="submit">Submit</button>
+              <form id="contactForm">
+                <textarea class='autoExpand' rows='1' data-min-rows='3' placeholder="e-mail address" id="email"></textarea><br>
+                <textarea class='autoExpand' rows='3' data-min-rows='3' placeholder="comments" id="comments"></textarea><br>
+                <button class="btn btn-dark" type="submit">Submit</button>
+              </form>
             </div>
           </div>
           <div class="p-4">
@@ -368,5 +370,15 @@
         });
       }
     </script>
+      <!-- The core Firebase JS SDK is always required and must be listed first -->
+    <script src="https://www.gstatic.com/firebase/7.9.2/firebase-app.js"></script>
+
+      <!-- TODO: Add SDKs for Firebase products that you want to use
+      https://firebase.google.com/docs/web/setup#available-libraries 
+    <script src="https://www.gstatic.com/firebase/7.9.2/firebase-analytics.js"></script>-->
+      <!-- Initialize Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-database.js"></script>
+    <script src="/__/firebase/init.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>

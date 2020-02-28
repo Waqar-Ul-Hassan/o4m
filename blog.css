@@ -116,7 +116,7 @@ textarea{
  * Blog posts
  */
 .blog-post {
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
 }
 .blog-post-title {
   margin-bottom: .25rem;
@@ -125,6 +125,45 @@ textarea{
 .blog-post-meta {
   margin-bottom: 1.25rem;
   color: #999;
+}
+/* Style the buttons that are used to open and close the accordion panel */
+.accordion {
+  background-color: #eee;
+  color: #000000;
+  font-size: 24px;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+button.accordion:after {
+  content: '\002B';
+  color: #000000;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+button.accordion.active:after {
+  content: "\2212";
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
 }
 
 /*

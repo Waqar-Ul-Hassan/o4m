@@ -1,30 +1,58 @@
-//reference messages collection
-var messagesRef = firebase.database().ref("messages");
+//scrolling animation from textcards to text
+$(document).ready(function() {
+  $("a").on("click", function(event) {
+    if (this.hash !== "") {
+      event.preventDefault();
 
-//listen for form submit
-document.getElementById("contactForm").addEventListener("submit", submitForm);
+      var hash = this.hash;
 
-//submit form
-function submitForm(e) {
-  e.preventDefault();
+      $("html, body").animate(
+        {
+          scrollTop: $(hash).offset().top
+        },
+        700,
+        function() {
+          window.location.hash = hash;
+        }
+      );
+    }
+  });
+});
 
-  //get values
-  var email = getInputVal("email");
-  var comments = getInputVal("comments");
+//auto expanding of comment text box
+$(document)
+  .one("focus.autoExpand", "textarea.autoExpand", function() {
+    var savedValue = this.value;
+    this.value = "";
+    this.baseScrollHeight = this.scrollHeight;
+    this.value = savedValue;
+  })
+  .on("input.autoExpand", "textarea.autoExpand", function() {
+    var minRows = this.getAttribute("data-min-rows") | 0,
+      rows;
+    this.rows = minRows;
+    rows = Math.ceil((this.scrollHeight - this.baseScrollHeight) / 16);
+    this.rows = minRows + rows;
+  });
 
-  saveMessage(email, comments);
-}
+//accordion functionality
+var acc = document.getElementsByClassName("accordion");
+var i;
 
-//function to get form values
-function getInputVal(id) {
-  return document.getElementById(id).value;
-}
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+    this.classList.toggle("active");
 
-//save message to firebase
-function saveMessage(email, comments) {
-  var newMessageRef = messagesRef.push();
-  newMessageRef.set({
-    email: email,
-    comments: comments
+    /* Toggle between hiding and showing the active panel */
+    var panel = this.nextElementSibling;
+    if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    }
   });
 }
+
+console.log("jello");

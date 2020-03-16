@@ -315,75 +315,11 @@
       </footer>
     </main><!-- /.container -->
 
-
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script>
-            $(document).ready(function(){
-        $("a").on('click', function(event) {
-
-          if (this.hash !== "") {
-            
-            event.preventDefault();
-
-            var hash = this.hash;
-
-            $('html, body').animate({
-              scrollTop: $(hash).offset().top
-            }, 700, function(){
-         
-              window.location.hash = hash;
-            });
-          }
-        });
-      });
-    </script>
-    <script>
-        $(document)
-      .one('focus.autoExpand', 'textarea.autoExpand', function(){
-          var savedValue = this.value;
-          this.value = '';
-          this.baseScrollHeight = this.scrollHeight;
-          this.value = savedValue;
-      })
-      .on('input.autoExpand', 'textarea.autoExpand', function(){
-          var minRows = this.getAttribute('data-min-rows')|0, rows;
-          this.rows = minRows;
-          rows = Math.ceil((this.scrollHeight - this.baseScrollHeight) / 16);
-          this.rows = minRows + rows;
-      });
-    </script>
-    <script>
-      var acc = document.getElementsByClassName("accordion");
-      var i;
-
-      for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-          /* Toggle between adding and removing the "active" class,
-          to highlight the button that controls the panel */
-          this.classList.toggle("active");
-
-          /* Toggle between hiding and showing the active panel */
-          var panel = this.nextElementSibling;
-          if (panel.style.display === "block") {
-            panel.style.display = "none";
-          } else {
-            panel.style.display = "block";
-          }
-        });
-      }
-    </script>
-      <!-- The core Firebase JS SDK is always required and must be listed first -->
-    <script src="https://www.gstatic.com/firebase/7.9.2/firebase-app.js"></script>
-
-      <!-- TODO: Add SDKs for Firebase products that you want to use
-      https://firebase.google.com/docs/web/setup#available-libraries 
-    <script src="https://www.gstatic.com/firebase/7.9.2/firebase-analytics.js"></script>-->
-      <!-- Initialize Firebase -->
-    <script src="https://www.gstatic.com/firebasejs/7.5.0/firebase-database.js"></script>
-    <script src="/__/firebase/init.js"></script>
     <script src="main.js"></script>
+    
   </body>
 </html>

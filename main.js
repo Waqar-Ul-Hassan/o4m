@@ -1,6 +1,6 @@
 //scrolling animation from textcards to text
-$(document).ready(function() {
-  $("a").on("click", function(event) {
+$(document).ready(function () {
+  $("a").on("click", function (event) {
     if (this.hash !== "") {
       event.preventDefault();
 
@@ -8,10 +8,10 @@ $(document).ready(function() {
 
       $("html, body").animate(
         {
-          scrollTop: $(hash).offset().top
+          scrollTop: $(hash).offset().top,
         },
         700,
-        function() {
+        function () {
           window.location.hash = hash;
         }
       );
@@ -21,13 +21,13 @@ $(document).ready(function() {
 
 //auto expanding of comment text box
 $(document)
-  .one("focus.autoExpand", "textarea.autoExpand", function() {
+  .one("focus.autoExpand", "textarea.autoExpand", function () {
     var savedValue = this.value;
     this.value = "";
     this.baseScrollHeight = this.scrollHeight;
     this.value = savedValue;
   })
-  .on("input.autoExpand", "textarea.autoExpand", function() {
+  .on("input.autoExpand", "textarea.autoExpand", function () {
     var minRows = this.getAttribute("data-min-rows") | 0,
       rows;
     this.rows = minRows;
@@ -35,24 +35,30 @@ $(document)
     this.rows = minRows + rows;
   });
 
-//accordion functionality
-var acc = document.getElementsByClassName("accordion");
-var i;
+//Vue router
+const fatwa = {
+  template: '<zero-md id="first" src="./content/fatwa.md"></zero-md>',
+};
+const policies = {
+  template: '<zero-md id="second" src="./content/policies.md"></zero-md>',
+};
+const advice = {
+  template: '<zero-md id="third" src="./content/advice.md"></zero-md>',
+};
+const faq = {
+  template: '<zero-md id="fourth" src="./content/faq.md"></zero-md>',
+};
 
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    /* Toggle between adding and removing the "active" class,
-    to highlight the button that controls the panel */
-    this.classList.toggle("active");
-
-    /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
-
-console.log("jello");
+const routes = [
+  { path: "", component: policies },
+  { path: "/fatwa", component: fatwa },
+  { path: "/policies", component: policies },
+  { path: "/advice", component: advice },
+  { path: "/faq", component: faq },
+];
+const router = new VueRouter({
+  routes,
+});
+const app = new Vue({
+  router,
+}).$mount("#vueApp");

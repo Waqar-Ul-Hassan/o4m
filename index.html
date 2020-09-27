@@ -1,543 +1,301 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Osap for Muslims</title>
 
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Osap for Muslims</title>
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
 
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-
-  <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -ms-user-select: none;
-      user-select: none;
-    }
-
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
+    <!-- <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
       }
-    }
-  </style>
-  <!-- Custom styles for this template -->
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
-  <!-- Custom styles for this template -->
-  <link href="blog.css" rel="stylesheet" type="text/css">
-</head>
 
-<body>
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style> -->
+    <!-- Zero MD -->
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"
+    ></script>
+    <!-- Vue and Vue router -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+    <!-- Custom styles for this template -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900"
+      rel="stylesheet"
+    />
+    <!-- Custom styles for this template -->
+    <link href="./styles/blog.css" rel="stylesheet" type="text/css" />
+  </head>
 
-  <div class="container">
-    <header class="blog-header py-3" id="zero-padding">
-    </header>
+  <body>
+    <div class="container">
+      <header class="blog-header py-3" id="zero-padding"></header>
 
-    <!--<div class="nav-scroller py-1 mb-2">
-        <nav class="nav d-flex justify-content-between">
-          <a class="p-2 text-muted" href="#">Post Secondary</a>
-          <a class="p-2 text-muted" href="#">U.S.</a>
-          <a class="p-2 text-muted" href="#">Technology</a>
-        </nav>
-      </div>-->
-
-    <div class="jumbotron p-4 p-md-5 text-white rounded jumbo-background">
-      <div class="col-md-6 px-0">
-        <h1 class="display-4 font-italic">OSAP for Muslims: A guide on avoiding interest</h1>
-        <p class="lead my-3">This website was made to educate muslims on OSAP and its policies so that they may plan
-          ahead to avoid interest. We recommend reading it completely however, we have added shortcuts below to skip to
-          important topics.</p>
-        <!--<p class="lead mb-0"><a href="#fifth" class="text-white font-weight-bold">Start reading...</a></p>-->
-      </div>
-    </div>
-
-    <div class="row mb-2">
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-success">Islam</strong>
-            <h3 class="mb-0">Rulings with regards to taking loans</h3>
-            <div class="mb-1 text-muted">Read time: 5 min</div>
-            <p class="card-text mb-auto"> Also re: zakaat, qurbani/udhiya, hajj/umrah while in debt.</p>
-            <a href="#first" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block icons">
-            <img src="scroll.png" width="100" height="100">
-            <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-danger">Important</strong>
-            <h3 class="mb-0">The "Grace Period" is NOT interest free</h3>
-            <div class="mb-1 text-muted">Read time: 2 min</div>
-            <p class="mb-auto">Contrary to popular belief, interest accumulates during the grace period.</p>
-            <a href="#second" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block icons">
-            <img src="error.png" width="100" height="100">
-            <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-primary">Advice</strong>
-            <h3 class="mb-0">Tips on navigating your student loan</h3>
-            <div class="mb-1 text-muted">Read time: 5 min</div>
-            <p class="mb-auto">Important steps to take to set yourself up to avoid interest.</p>
-            <a href="#third" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block icons">
-            <img src="direction.png" width="100" height="100">
-            <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6">
-        <div
-          class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-          <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-warning">FAQ</strong>
-            <h3 class="mb-0">Common Questions</h3>
-            <div class="mb-1 text-muted">Read time: 4 min</div>
-            <p class="mb-auto">We recommend you read these in order to get a good understanding of how the policies
-              affect real cases.</p>
-            <a href="#fourth" class="stretched-link">Continue reading</a>
-          </div>
-          <div class="col-auto d-none d-lg-block icons">
-            <img src="question.png" width="100" height="100">
-            <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <main role="main" class="container">
-    <div class="row">
-      <div class="col-md-8 blog-main">
-        <h3 align="center" class="pb-4 mb-4 font-italic border-bottom">
-          ﷽
-        </h3>
-
-        <div class="blog-post">
-          <h3 id="first"><u>Is OSAP permissible?</u></h3><br>
-          <p><em>[coming soon]</em></p>
-        </div>
-
-        <div class="blog-post">
-          <h3 id="fifth"><u>Important Policies and Definitions</u></h3>
-          <br>
-          <!--<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>-->
-          <p>The Ontario Student Assistant Program (OSAP) provides funds to students needing financial assistance for
-            their post secondary education. The funding is made up of 3 parts: two of which are grants that do not need
-            to be repaid and one of which is a loan that will need to be repaid at a later date. The grants include: The
-            <strong>Ontario student grant</strong> and The <strong>Canada student grant for full time students</strong>,
-            whereas the loan is composed of a <strong>Canada - Ontario integrated student loan</strong>.</p>
-          <p>It is important to keep in mind that the loan portion is an integrated provincial and federal loan. They
-            are two independent components of the loan, each with its own properties. Later we will discuss how
-            different rules apply to both of them separately.</p>
-          <p><strong>Grants</strong> are essentially free money provided by the government to reduce the overall loans
-            on students. Students do not need to repay grants. <strong>Loans</strong> are NOT FREE money. All loans will
-            need to be paid off at an eventual date.</p>
-          <p><strong>Pro-Tip:</strong> Use extra grants/ scholarships/ bursaries that are left over after educational
-            expenses to pay off loans as soon as possible.</p>
-          <p>During the life of a student, they are put within three categories depending on their current status.</p>
-          <ol>
-            <li>The <strong><em>In-Study</em></strong> category is defined as when a student is currently in school
-              pursuing education. In this stage, students <strong>are not required to make any payments and DO NOT
-                accumulate any interest</strong> on outstanding loans, provided enrollment is confirmed every year.</li>
-            <li>The <strong><em>Non-Repayment</em></strong> category is known as a “grace period” and occurs when the
-              student is no longer within the <em>In-Study</em> period, lasting 6 months after <em>In-Study</em> status
-              ends. In this stage, the student <strong>does not need to make any payments</strong> towards outstanding
-              loans, but, they <strong>do begin to accumulate interest</strong> on those loans. More details of this
-              phase are discussed below.</li>
-            <li>The <strong><em>Repayment</em></strong> category is when the <em>Non-Repayment</em> stage ends, and
-              students are mandated to begin paying off their loans.</li>
-          </ol>
-          <p><em>For more general information click <a href="https://www.ontario.ca/page/learn-about-osap"
-                target="_blank">here</a>.</em></p>
-
-          <h4 id="second">Grace period: What is it?</h4>
-          <p>The <strong>Grace period</strong> is a 6-month period that begins after you graduate or leave school.
-            During this period, you are not required to start repaying your loan. However, what many students don’t
-            realize is that during this period, <strong>interest starts to accumulate</strong><a
-              href="https://www.ontario.ca/page/pay-back-osap" target="_blank"> (check "Pay back OSAP")</a>. Earlier, we
-            mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are
-            separate, and this is why: during the grace period, interest is not charged <a
-              href="https://www.csnpe-nslsc.canada.ca/en/glossary" target="_blank">(check "Non-repayment")</a> on the
-            federal portion of your loan, but it is charged on the provinical portion.* After the 6-month grace period,
-            interest will accumulate on both components of the loan.</p>
-          <p>*<strong>Note:</strong> After the <a
-              href="https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html"
-              target="_blank">changes made by the provincial government</a>, interest will be charged on the provincial
-            portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019
-            interest would accrue on the federal portion but not the provincial portion. </p>
-
-          <h4>Grace period: Forgiven Interest</h4>
-          <p>Many students think of the grace period as the six-month interest-free period that begins after graduation.
-            This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every
-            year without even knowing about it. Each year, a grace period is initiated on the last day of the last OSAP-funded term. For most students, this is usually the end of April, when they finish their
-            Winter semester. So, during summer break, if you are not taking any spring or summer courses, interest
-            starts to accumulate (even if you are planning to return to school for the fall semester). However, when you
-            actually return to school in September, the interest gets cleared. This is because the spring/summer term is
-            only 4 months, which is less than the maximum grace period of 6 months. By returning to school in September,
-            you return to the In-Study category. It is only if you do not decide to return to school for the fall
-            semester that the interest will not be forgiven, and it will be added on to your outstanding loan. This is
-            the case regardless of which term you are not in school. For example, if you take the winter semester off (4
-            months) but return in the spring/summer semester as a full-time student, the same rule will apply to you.
-            However, if you take the winter semester AND the spring/summer semester off (8 months) you will have accrued
-            interest and will even be required to start repaying your loans after the 6-month mark. The only exception
-            to the 6-month maximum is if you are registered in an approved co-op placement.</p>
-          <p>In short, if you return to school as a full-time student within the grace period (6 months) the accrued
-            interest will be forgiven.</p>
-
-          <h4>Interest free status/switching to part-time studies</h4>
-          <p>Once you take an OSAP loan for full-time studies, you are required to maintain full-time status or be
-            registered in an approved internship in order to qualify for the interest-free status. In other words, as
-            long as you remain in the “In-Study Category”, you will not have to make any payments and interest will not
-            accrue. If at any time you wish to either switch into part-time studies (take less than 60% of the course
-            load per term) or take a period of time off from school for longer than 6 months, <strong>interest will
-              start to accumulate.</strong> If you haven't yet started your full-time studies you may consider starting off with a part-time OSAP loan to allow for more flexibility. Check the advices section below for more information. 
-              <p>To learn more about continuation of interest free status click <a href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019241.html" target="_blank">here.</a></p>
-              <strong>Note:</strong> Generally, most universities allow engineering
-            students to go on a long-term internship (more than 4 months) while remaining eligible for continuation of
-            interest-free status because they deem it a necessary part of the degree. Keep in mind that this is only
-            applicable if you register and get your internship approved by your university. If you are not an
-            engineering student, unless your specific program has allowed some sort of form or policy to get the
-            interest free status, you will most likely not be able to continue your interest free status during an
-            internship, even if your program name has “co-op” in it. Ask your financial aid advisor about being eligible
-            for interest-free status before accepting any long-term internships.</p>
-
-          <h4>Minimum Course Requirements</h4>
-          <p>If you are taking an OSAP loan for full time studies, you must complete and pass 60% of your course load in
-            <strong>each term</strong>* of your academic year. If you fail to do this, OSAP will place you on academic
-            probation. This is essentially a warning for you to make sure that you pass the required number of courses
-            in the following year. If you fail to pass 60% of the courses the following year as well then you will be
-            put on academic restriction by OSAP. This means that you will not receive funding for one year. During that
-            year you will have to pay out of pocket for your courses while making sure to pass the required number of
-            courses. If you succeed then you can apply to OSAP once again for the following year. You will have to
-            submit documentation explaining why you did not perform as expected during both the years you failed to pass
-            the required number of courses.</p>
-          <p>*<strong>Note:</strong> Course load percentages work differently in the spring/summer term. Be very careful
-            when enrolling or dropping courses during that time, especially if you are unsure about your circumstances.
-            In some cases, dropping even 1 course will switch your status from full-time to part-time. Be sure to
-            consult your financial aid advisor before making any changes.</p>
-
-          <h4>Penalties</h4>
-          <p>There are a few <a href="https://www.ontario.ca/page/after-you-apply-osap" target="_blank">cases</a> in
-            which your grants are converted into loans.</p>
-          <ul>
-            <li>You withdraw from studies or stop taking the minimum course load within the first 30 days of starting
-              school</li>
-            <li>An OSAP reassessment is conducted, and it is determined that you were not entitled to all or part of the
-              grant that you received (e.g., dropped courses, unreported income)</li>
-            <li>The income you reported on your OSAP application cannot be verified within one year from the start of
-              your studies. This only applies to your Ontario Student Grant.</li>
-          </ul>
-
-          <h4>Continuation of studies but not taking OSAP?</h4>
-          <p>If you already have an outstanding OSAP loan and you plan to continue full-time or part-time studies
-            without applying for an OSAP loan (i.e. you are paying for tuition out of pocket), you can still apply for
-            continuation of interest-free status. This will prevent interest from accruing on your previous full-time
-            loans. Simply apply for interest-free status on OSAP’s website. For more info click <a
-              href="https://www.ontario.ca/page/after-you-apply-osap" target="_blank">here</a>.</p>
-
-          <h4>Repayment Assistance Plan</h4>
-          <p>If you are at the end of your studies and you do not have enough money to pay off your loans or do not want
-            to extend your degree/continue your education, there may still be a way to avoid interest. The government
-            can cover some or all interest charges depending on household size and gross income. Disabilities and
-            special cases are taken into consideration during this eligibility assessment. To learn more click <a
-              href="https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019256.html" target="_blank">here</a>.</p>
-
-          <div class="col-md-6">
-            <table class="table table-bordered">
-              <caption>
-                <strong>Monthly Gross Family Income Thresholds for Zero Payment under RAP by Family Size</strong>
-              </caption>
-              <tbody>
-                <tr>
-                  <th scope="row">Family Size </th>
-                  <th scope="row">Income Threshold </th>
-                </tr>
-                <tr>
-                  <td>1</td>
-                  <td class="text-right">$2,083</td>
-                </tr>
-                <tr>
-                  <td>2</td>
-                  <td class="text-right">$3,254</td>
-                </tr>
-                <tr>
-                  <td>3</td>
-                  <td class="text-right">$4,205</td>
-                </tr>
-                <tr>
-                  <td>4</td>
-                  <td class="text-right">$4,959</td>
-                </tr>
-                <tr>
-                  <td>5+</td>
-                  <td class="text-right">$5,652</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-
-          <p><strong>Note:</strong> Household income includes the loan holder's income and a spouse's income (if
-            applicable). It does not include the loan holder's parents' or siblings' income. Family size includes the
-            loan holder, spouse and dependants (children under 21) living at the same address. The definition of
-            "income" can be found <a href="https://www.csnpe-nslsc.canada.ca/en/glossary" target="_blank">here</a>.
-            (check "Income")</p>
-
-          <p>Check out the <a href="http://tools.canlearn.ca/cslgs-scpse/cln-cln/rae-ear/rae-ear-1-eng.do"
-              target="_blank">repayment assistance estimator</a> to get an idea of how much you may be able to get.</p>
-
-          <h4>Paying with points</h4>
-          <p>If you have a lot of points from credit cards you can check this <a href="https://www.higheredpoints.com/"
-              target="_blank">website</a> to see how you can make payments using them.</p>
-
-        </div><!-- /.blog-post -->
-
-        <div class="blog-post">
-          <!--<h3 id="third"><u>How to pay off OSAP</u></h3><br>-->
-          <button class="accordion" id="third">Some OSAP Advice</button>
-          <div class="panel">
-            <p>
-              <p>In theory, paying off debts is very simple. However, in reality, many people experience varying
-                difficulties paying off their student loans. Just search current consumer and student debt numbers to
-                see what we mean. Here are some practical advices that can help you better manage student debt:</p>
-
-              <p>Don’t require an OSAP loan. What does this mean? Start saving early! For some, they are fortunate
-                enough to have an education savings plan. By the time they reach post-secondary education, they have
-                enough money saved up to pay for their education without requiring any external financial assistance. If
-                you are in this group, consider yourself very fortunate and make the most of this blessing. Many of us,
-                however, do not have an education savings plan that can fully or even partially cover our expenses.
-                Fortunately, there are still things we can do to afford post secondary education without OSAP.</p>
-
-              <h6><em><u>Precautionary Advice</u></em></h6>
-              <p>You may choose to start off your post secondary education as a part-time student i.e. you are enrolled
-                in 20-59% of your program’s full-time course load. As you read above, if you start off as a full-time
-                student, it may feel like you're trapped in your post-secondary education since you can't take a long
-                period of time off to work. So some students opt for part-time studies for various reasons such as being
-                able to better manage their studies or so that they can have more time to work. All of the above
-                mentioned policies will still apply to you, except there is one important difference: if you want to
-                apply for continuation of interest-free status during your part-time studies, you will have to fill out
-                the <a
-                  href="https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/information/forms.html"
-                  target="_blank">schedule-2</a> form to confirm your enrolment in part-time studies.<br><br>Note:
-                Interest will accrue on your account every month. However, it will be removed from your account at the
-                end of each month as long as you are still enrolled in part-time studies. Call <a
-                  href="https://protege-secure-2.csnpe-nslsc.canada.ca/eng/ContactUs.aspx" target="_blank">NSLSC</a> for
-                more information.</p>
-
-              <h6><em><u>Before post secondary education</u></em></h6>
-              <h4>Start working and saving early!</h4>
-              <p>Many teenagers pick up part time work during high-school. Make a decent resume and apply to your local
-                businesses, ask your network of adults if they can help you get a job, and be creative. If you don’t
-                like working a part-time job, start your own side-business after school and on the weekends. You can
-                turn a hobby or interest of yours into money. If you don’t have any ideas, google side business ideas
-                for teens. Pick something you’ll like and stick to it, whether it's a job or business, just start
-                working! Make a budget to start saving a portion of your earnings towards your post-secondary education.
-                Look into halal investment options where you can let your education fund grow over time.</p>
-
-              <h4>Begin looking into scholarships</h4>
-              <p>There are millions of dollars in unclaimed scholarships every year. Make a schedule where you can
-                slowly, but consistently apply to as many scholarships as you can. Research online the best resources
-                and techniques to help you with your applications. It’s going to be tough work, but the rewards are
-                great! Imagine getting hundreds of dollars by only putting in 1 hour of work a day! Don’t be lazy like
-                most people; take action!</p>
-
-              <h6><em><u>During post secondary education</u></em></h6>
-              <h4>Apply for OSAP Grants only</h4>
-              <p>Did you know that you can apply for OSAP grants without taking any loans? Make sure to apply for the
-                grant portion of OSAP. This is money provided by the government to fund your education, and it does not
-                need to be paid back! Try to avoid taking the loan if you can.</p>
-
-              <h4>Keep applying to scholarships</h4>
-              <p>Many students stop applying once they get accepted and end up missing out on potentially thousands of
-                dollars in financial assistance. Apply for bursaries and other grants. Research what grants and
-                bursaries your school offers. Always apply! The worst case scenario is that you will not receive grants,
-                but you will have spent some time practicing application skills (which will help when applying for jobs,
-                schools, grants later on in life), and the best case is that you will get a lot of money to pay for your
-                education. Remember to make a consistent application schedule. Dedicating just 1 hour everyday can
-                really go a long way!</p>
-
-              <h4>Work part-time during school and in the summers</h4>
-              <p>This may not be a viable option for everyone, especially if you have a heavy course load. However, many
-                students do manage to pull this off and scrape in some extra-income to help pay off their expenses. Many
-                schools have work-study programs where they offer jobs on and around campus for students looking to work
-                while they study. Make sure to make the most of your summers. Start applying to summer jobs a few months
-                before the spring/summer semester begins. Not only does this make you money, but also gives you valuable
-                experience to get a head-start on your career after graduation.</p>
-
-              <h4>Do Co-op!</h4>
-              <p>If you are in a registered Co-op program, make use of your school’s job board and research company
-                websites to find summer postings. Co-op jobs traditionally pay higher than regular summer jobs and
-                usually provide you with valuable experience related to your field. Take a year off for an approved
-                internship. If you are in a registered Co-op program, apply for a 12-16 month internship or dedicate a
-                whole year for 3-4 different 4 month Co-ops (this gives you more diversified experience). This step is
-                highly recommended, especially if you are in a professional degree (engineering, business etc.). You can
-                make a good sum of money to pay off your expenses and enter into your career after graduation with a
-                year of professional experience, giving you a great advantage over your peers.</p>
-              <p><strong>Note:</strong> It is important not to put all your trust in the ability to get a long term
-                internship. Make backup plans in case you are unable to find an internship.</p>
-
-              <h6><em><u>At the end of post secondary education and beyond</u></em></h6>
-              <p>Congratulations on successfully completing your formal education! If you have made it this far without
-                taking any loans, you are indeed very successful today, and have an incredible head start in life.</p>
-              <p>If you required OSAP loans to pay your tuition and other fees, you should arrange to pay it all off
-                before or while finishing up your final exams to avoid any interest charges. Remember that the term
-                finishes at the end of the month; be diligent so as not to pay a single day’s worth of interest. This
-                will only be possible if you took the necessary steps to work hard before and during University to make
-                enough money to pay off your loan. If you manage to pay off your OSAP loan before finishing your finals
-                with your own hard-earned money, congratulations, you are also ahead of the game.</p>
-              <p>If you are unable to fully pay off your loan by the end of your exams, you still may have some hope.
-                Try to get interest-free loans to pay off the OSAP loan. Make a solid career and repayment plan and take
-                it to any family/friends that may be willing to loan you cash. You can ask multiple people to help with
-                small amounts. Make sure to provide a concrete plan and timeline to repay their loan. Hopefully, you can
-                gather enough money to pay off all of your OSAP loan before graduation. Keep an accurate record of how
-                much you owe people and when and where you returned some or all of their money. Remember that these are
-                your closest relationships, and wrongdoings involving money can jeopardize or irreparably harm your
-                relationships. So do everything in your power to pay these loans off as soon as possible. Do not go and
-                buy an expensive car with your first check if you still owe people money! Debts and the preservation of
-                your ties of kinship should be your first priority as soon as your start making money. If friends/family
-                is not an option for you, look into organizations that provide interest free loans (<a
-                  href="https://beneficent.cc/" target="_blank">Beneficent</a>).</p>
-              <p>If you are absolutely unable to gather enough funds to pay off your OSAP loan, you have no choice but
-                to go through the traditional method of paying it off yourself over time while accruing interest. Your
-                first priority should be paying off this student loan as soon as possible. This means finding any source
-                of halal-income right away, even if it’s not your dream job. A budget should be made to put as much of
-                your income as possible towards paying off the loan. The earlier you pay off the loan, the less interest
-                you need to pay. It will be very difficult, but you will be very happy you did it when you’re debt free.
-                If we find ourselves in this situation, we should repent for indulging in the paying of interest and
-                make a sincere intention to never put ourselves in such an interest-bearing situation again. Indeed,
-                Allah is the most merciful, so ask for His forgiveness and protection from dealing with interest. </p>
-              <p>Note: If you were unable to find any interest free loan options then there are other avenues to get
-                loans at a much lower interest rates. Use the lower interest rate loan to pay off your student debts to
-                potentially save money.</p>
-            </p>
-          </div>
-        </div><!-- /.blog-post -->
-
-        <div class="blog-post">
-          <!--<h3 id="fourth">FAQ</h3><br>-->
-          <button class="accordion" id="fourth">FAQ</button>
-          <div class="panel">
-            <p>
-              <ol>
-                <li>I just finished my 2nd year in a business program. I am not taking any summer courses, and I
-                  received an offer for a 4 month co-op in the fall term (Sept-Dec) of the upcoming year. Will I still
-                  have interest free status?<br><br>Ans: Anytime you take a break from school, a grace period is
-                  initiated. The maximum duration of the grace period is 6 months. If you return to full-time studies
-                  during the grace period, all interest charges that have accrued during your break will be removed. In
-                  this case, because your grace period starts at the beginning of May and finishes at the end of
-                  December (a total of 8 months) the interest charges will remain on your account. There are three
-                  possible solutions for avoiding interest in this case: (1) you enrol in full-time studies during the
-                  summer term or (2) try to somehow take a 60% course load during your co-op term or (3) you decline the
-                  coop position, and resume your full-time studies in September.<br><br>Note: after the 6 month period
-                  you will also start to receive calls asking you to start repayment.</li><br>
-                <li>I am in an engineering program, and I want to do an extra 8-month co-op starting in the winter term.
-                  However, I do not want to inform my university because I will have to pay the co-op fee. Would my OSAP
-                  loans still be interest free?<br><br>Ans: If you do not inform your university then they cannot inform
-                  the financial aid office who in turn will not be able to confirm that you are still a student for OSAP
-                  purposes. Hence, according to OSAP, your status will either be that you left school or that you
-                  graduated. Unless you decide to somehow become a full-time student again within 6 months (take a 60%
-                  course load in the May-Aug summer term), you will accrue interest and will be asked to make payments 6
-                  months into your coop. Since you are in an engineering program, you may be eligible for continuation
-                  of interest free status during coop depending on your university. If that is the case, we strongly
-                  recommend paying the extra coop fee because it will protect you from accruing interest charges.</li>
-              </ol>
-            </p>
-          </div>
-        </div><!-- /.blog-post -->
-
-        <div class="blog-post">
-          <h4>Disclaimer</h4>
-          <p>
-            We have tried our best to research and present OSAP policies as thoroughly as possible. We hope that all of
-            the information that we have provided is accurate and helpful to you in avoiding interest. You are still
-            responsible for ensuring that you protect yourself from interest by confirming all of the information
-            provided on this website before making any decisions regarding school loans. We suggest that after reading
-            the information provided on this website, you contact an NSLSC representative to confirm everything that you
-            have read and to determine if there is anything else that you need to be aware of regarding interest
-            charges. If you find that we have missed something or you note any discrepancies, please let us know via the
-            <i>Contact us</i> section so that we can make the necessary changes.
+      <div class="jumbotron p-4 p-md-5 text-white rounded jumbo-background">
+        <div class="col-md-6 px-0">
+          <h1 class="display-4 font-italic">
+            OSAP for Muslims: A guide on avoiding interest
+          </h1>
+          <p class="lead my-3">
+            This website was made to educate muslims on OSAP and its policies so
+            that they may plan ahead to avoid interest. We recommend reading it
+            completely however, we have added shortcuts below to skip to
+            important topics.
           </p>
+          <!--<p class="lead mb-0"><a href="#fifth" class="text-white font-weight-bold">Start reading...</a></p>-->
         </div>
+      </div>
 
-      </div><!-- /.blog-main -->
-
-      <aside class="col-md-4 blog-sidebar">
-        <div class="p-4 mb-3 bg-light rounded">
-          <h4 class="font-italic">About us</h4>
-          <p class="mb-0">This website was made by members of Samāha, a group focused on helping the muslim community at
-            large using the diverse set of talents from students, muslim professionals and scholars in order to attain the
-            pleasure of Allah ‎ﷻ</p>
-        </div>
-        <div class="p-4">
-          <h4 class="font-italic">Contact us</h4>
-          <p>If you would like to stay in the loop about our future projects or would like to get involved please
-            subscribe to our newsletter.</p>
-          <p><em>Don't worry, we don't like spam emails either. We'll only email when we need to.</em></p>
-          <div>
-            <form id="contactForm" name="feedback" data-netlify="true">
-              <textarea rows='1' data-min-rows='3' placeholder="Full Name" id="fullname" name="name"></textarea><br>
-              <textarea rows='1' data-min-rows='3' placeholder="e-mail address" id="email" name="email"></textarea><br>
-              <textarea class='autoExpand' rows='3' data-min-rows='3' placeholder="comments" id="comments"
-                name="comments"></textarea><br>
-              <button class="btn btn-dark" type="submit">Submit</button>
-            </form>
+      <div class="row mb-2">
+        <div class="col-md-6">
+          <div
+            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+          >
+            <div class="col p-4 d-flex flex-column position-static">
+              <strong class="d-inline-block mb-2 text-success">Islam</strong>
+              <h3 class="mb-0">Rulings with regards to taking loans</h3>
+              <div class="mb-1 text-muted">Read time: 5 min</div>
+              <p class="card-text mb-auto">
+                Also re: zakaat, qurbani/udhiya, hajj/umrah while in debt.
+              </p>
+              <a href="#first" class="stretched-link">Continue reading</a>
+            </div>
+            <div class="col-auto d-none d-lg-block icons">
+              <img src="./assets/scroll.png" width="100" height="100" />
+              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
+            </div>
           </div>
         </div>
-        <div class="p-4">
-          <h4 class="font-italic">References</h4>
-          <ol class="list-unstyled mb-0">
-            <li><a href="https://www.csnpe-nslsc.canada.ca/en/glossary" target="_blank">National Student Loans Service
-                Centre (NSLSC)</a></li>
-            <li><a href="https://www.ontario.ca/page/osap-ontario-student-assistance-program" target="_blank">Ontatio
-                Student Assistance Program (OSAP)</a></li>
-          </ol>
+        <div class="col-md-6">
+          <div
+            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+          >
+            <div class="col p-4 d-flex flex-column position-static">
+              <strong class="d-inline-block mb-2 text-danger">Important</strong>
+              <h3 class="mb-0">The "Grace Period" is NOT interest free</h3>
+              <div class="mb-1 text-muted">Read time: 2 min</div>
+              <p class="mb-auto">
+                Contrary to popular belief, interest accumulates during the
+                grace period.
+              </p>
+              <a href="#second" class="stretched-link">Continue reading</a>
+            </div>
+            <div class="col-auto d-none d-lg-block icons">
+              <img src="./assets/error.png" width="100" height="100" />
+              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
+            </div>
+          </div>
         </div>
-      </aside><!-- /.blog-sidebar -->
+        <div class="col-md-6">
+          <div
+            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+          >
+            <div class="col p-4 d-flex flex-column position-static">
+              <strong class="d-inline-block mb-2 text-primary">Advice</strong>
+              <h3 class="mb-0">Tips on navigating your student loan</h3>
+              <div class="mb-1 text-muted">Read time: 5 min</div>
+              <p class="mb-auto">
+                Important steps to take to set yourself up to avoid interest.
+              </p>
+              <a href="#third" class="stretched-link">Continue reading</a>
+            </div>
+            <div class="col-auto d-none d-lg-block icons">
+              <img src="./assets/direction.png" width="100" height="100" />
+              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div
+            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+          >
+            <div class="col p-4 d-flex flex-column position-static">
+              <strong class="d-inline-block mb-2 text-warning">FAQ</strong>
+              <h3 class="mb-0">Common Questions</h3>
+              <div class="mb-1 text-muted">Read time: 4 min</div>
+              <p class="mb-auto">
+                We recommend you read these in order to get a good understanding
+                of how the policies affect real cases.
+              </p>
+              <a href="#fourth" class="stretched-link">Continue reading</a>
+            </div>
+            <div class="col-auto d-none d-lg-block icons">
+              <img src="./assets/question.png" width="100" height="100" />
+              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-    </div><!-- /.row -->
-    <footer class="blog-footer">
-      <p>A website by Samāha</p>
-      <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a
-          href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-      <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by rawpixel.com -
-        www.freepik.com</a>
-      <p>
-        <a href="#">Back to top</a>
-      </p>
-    </footer>
-  </main><!-- /.container -->
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8 blog-main">
+          <h3 align="center" class="pb-4 mb-4 font-italic border-bottom">﷽</h3>
 
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-    crossorigin="anonymous"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="main.js"></script>
-</body>
+          <div class="blog-post">
+            <zero-md src="./content/fatwa.md"></zero-md>
+          </div>
 
+          <div class="blog-post">
+            <zero-md src="./content/policies.md"></zero-md>
+          </div>
+          <!-- /.blog-post -->
+
+          <div class="blog-post">
+            <zero-md src="./content/advice.md"></zero-md>
+          </div>
+          <!-- /.blog-post -->
+
+          <div class="blog-post">
+            <zero-md src="./content/faq.md"></zero-md>
+          </div>
+          <!-- /.blog-post -->
+
+          <div class="blog-post">
+            <zero-md src="./content/disclaimer.md"></zero-md>
+          </div>
+        </div>
+        <!-- /.blog-main -->
+
+        <aside class="col-md-4 blog-sidebar">
+          <div class="p-4 mb-3 bg-light rounded">
+            <h4 class="font-italic">About us</h4>
+            <p class="mb-0">
+              This website was made by members of Samāha, a group focused on
+              helping the muslim community at large using the diverse set of
+              talents from students, muslim professionals and scholars in order
+              to attain the pleasure of Allah ‎ﷻ
+            </p>
+          </div>
+          <div class="p-4">
+            <h4 class="font-italic">Contact us</h4>
+            <p>
+              If you would like to stay in the loop about our future projects or
+              would like to get involved please subscribe to our newsletter.
+            </p>
+            <p>
+              <em
+                >Don't worry, we don't like spam emails either. We'll only email
+                when we need to.</em
+              >
+            </p>
+            <div>
+              <form id="contactForm" name="feedback" data-netlify="true">
+                <textarea
+                  rows="1"
+                  data-min-rows="3"
+                  placeholder="Full Name"
+                  id="fullname"
+                  name="name"
+                ></textarea
+                ><br />
+                <textarea
+                  rows="1"
+                  data-min-rows="3"
+                  placeholder="e-mail address"
+                  id="email"
+                  name="email"
+                ></textarea
+                ><br />
+                <textarea
+                  class="autoExpand"
+                  rows="3"
+                  data-min-rows="3"
+                  placeholder="comments"
+                  id="comments"
+                  name="comments"
+                ></textarea
+                ><br />
+                <button class="btn btn-dark" type="submit">Submit</button>
+              </form>
+            </div>
+          </div>
+          <div class="p-4">
+            <h4 class="font-italic">References</h4>
+            <ol class="list-unstyled mb-0">
+              <li>
+                <a
+                  href="https://www.csnpe-nslsc.canada.ca/en/glossary"
+                  target="_blank"
+                  >National Student Loans Service Centre (NSLSC)</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.ontario.ca/page/osap-ontario-student-assistance-program"
+                  target="_blank"
+                  >Ontatio Student Assistance Program (OSAP)</a
+                >
+              </li>
+            </ol>
+          </div>
+        </aside>
+        <!-- /.blog-sidebar -->
+      </div>
+      <!-- /.row -->
+      <footer class="blog-footer">
+        <p>A website by Samāha</p>
+        <div>
+          Icons made by
+          <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
+            >Freepik</a
+          >
+          from
+          <a href="https://www.flaticon.com/" title="Flaticon"
+            >www.flaticon.com</a
+          >
+        </div>
+        <a href="https://www.freepik.com/free-photos-vectors/background"
+          >Background vector created by rawpixel.com - www.freepik.com</a
+        >
+        <p>
+          <a href="#">Back to top</a>
+        </p>
+      </footer>
+    </main>
+    <!-- /.container -->
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="main.js"></script>
+  </body>
 </html>

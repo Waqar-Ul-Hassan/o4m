@@ -104,6 +104,21 @@ textarea {
   background-repeat: no-repeat;
   background-size: cover;
 }
+/* Copied from header of index.html*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
 /*
  * Blog name and description
  */
@@ -136,6 +151,7 @@ textarea {
  */
 .blog-post {
   margin-bottom: 1rem;
+  /*text-align: justify; */
 }
 .blog-post-title {
   margin-bottom: 0.25rem;

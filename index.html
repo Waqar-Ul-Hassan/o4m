@@ -16,23 +16,6 @@
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
       crossorigin="anonymous"
     />
-
-    <!-- <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style> -->
     <!-- Zero MD -->
     <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
     <script
@@ -52,232 +35,237 @@
   </head>
 
   <body>
-    <div class="container">
-      <header class="blog-header py-3" id="zero-padding"></header>
+    <div id="vueApp">
+      <div class="container">
+        <header class="blog-header py-3" id="zero-padding"></header>
 
-      <div class="jumbotron p-4 p-md-5 text-white rounded jumbo-background">
-        <div class="col-md-6 px-0">
-          <h1 class="display-4 font-italic">
-            OSAP for Muslims: A guide on avoiding interest
-          </h1>
-          <p class="lead my-3">
-            This website was made to educate muslims on OSAP and its policies so
-            that they may plan ahead to avoid interest. We recommend reading it
-            completely however, we have added shortcuts below to skip to
-            important topics.
+        <div class="jumbotron p-4 p-md-5 text-white rounded jumbo-background">
+          <div class="col-md-6 px-0">
+            <h1 class="display-4 font-italic">
+              OSAP for Muslims: A guide on avoiding interest
+            </h1>
+            <p class="lead my-3">
+              This website was made to educate muslims on OSAP and its policies
+              so that they may plan ahead to avoid interest. We recommend
+              reading it completely however, we have added shortcuts below to
+              skip to important topics.
+            </p>
+            <!--<p class="lead mb-0"><a href="#fifth" class="text-white font-weight-bold">Start reading...</a></p>-->
+          </div>
+        </div>
+
+        <div class="row mb-2">
+          <div class="col-md-6">
+            <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+            >
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-success">Islam</strong>
+                <h3 class="mb-0">Rulings with regards to taking loans</h3>
+                <div class="mb-1 text-muted">Read time: 5 min</div>
+                <p class="card-text mb-auto">
+                  Also re: zakaat, qurbani/udhiya, hajj/umrah while in debt.
+                </p>
+
+                <router-link href="#first" class="stretched-link" to="/fatwa"
+                  >Continue reading</router-link
+                >
+              </div>
+              <div class="col-auto d-none d-lg-block icons">
+                <img src="./assets/scroll.png" width="100" height="100" />
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+            >
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-danger"
+                  >Important</strong
+                >
+                <h3 class="mb-0">The "Grace Period" is NOT interest free</h3>
+                <div class="mb-1 text-muted">Read time: 2 min</div>
+                <p class="mb-auto">
+                  Contrary to popular belief, interest accumulates during the
+                  grace period.
+                </p>
+
+                <router-link
+                  href="#second"
+                  class="stretched-link"
+                  to="/policies"
+                  >Continue reading</router-link
+                >
+              </div>
+              <div class="col-auto d-none d-lg-block icons">
+                <img src="./assets/error.png" width="100" height="100" />
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+            >
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-primary">Advice</strong>
+                <h3 class="mb-0">Tips on navigating your student loan</h3>
+                <div class="mb-1 text-muted">Read time: 5 min</div>
+                <p class="mb-auto">
+                  Important steps to take to set yourself up to avoid interest.
+                </p>
+
+                <router-link href="#third" class="stretched-link" to="/advice"
+                  >Continue reading</router-link
+                >
+              </div>
+              <div class="col-auto d-none d-lg-block icons">
+                <img src="./assets/direction.png" width="100" height="100" />
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div
+              class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
+            >
+              <div class="col p-4 d-flex flex-column position-static">
+                <strong class="d-inline-block mb-2 text-warning">FAQ</strong>
+                <h3 class="mb-0">Common Questions</h3>
+                <div class="mb-1 text-muted">Read time: 4 min</div>
+                <p class="mb-auto">
+                  We recommend you read these in order to get a good
+                  understanding of how the policies affect real cases.
+                </p>
+
+                <router-link href="#fourth" class="stretched-link" to="/faq"
+                  >Continue reading</router-link
+                >
+              </div>
+              <div class="col-auto d-none d-lg-block icons">
+                <img src="./assets/question.png" width="100" height="100" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <main role="main" class="container">
+        <div class="row">
+          <div class="col-md-8 blog-main">
+            <h3 align="center" class="pb-4 mb-4 font-italic border-bottom">
+              ﷽
+            </h3>
+
+            <div class="blog-post">
+              <base target="_blank" />
+              <router-view> </router-view>
+            </div>
+
+            <div class="blog-post">
+              <zero-md src="./content/disclaimer.md"></zero-md>
+            </div>
+          </div>
+          <!-- /.blog-main -->
+
+          <aside class="col-md-4 blog-sidebar">
+            <div class="p-4 mb-3 bg-light rounded">
+              <h4 class="font-italic">About us</h4>
+              <p class="mb-0">
+                This website was made by members of Samāha, a group focused on
+                helping the muslim community at large using the diverse set of
+                talents from students, muslim professionals and scholars in
+                order to attain the pleasure of Allah ‎ﷻ
+              </p>
+            </div>
+            <div class="p-4">
+              <h4 class="font-italic">Contact us</h4>
+              <p>
+                If you would like to stay in the loop about our future projects
+                or would like to get involved please subscribe to our
+                newsletter.
+              </p>
+              <p>
+                <em
+                  >Don't worry, we don't like spam emails either. We'll only
+                  email when we need to.</em
+                >
+              </p>
+              <div>
+                <form id="contactForm" name="feedback" data-netlify="true">
+                  <textarea
+                    rows="1"
+                    data-min-rows="3"
+                    placeholder="Full Name"
+                    id="fullname"
+                    name="name"
+                  ></textarea
+                  ><br />
+                  <textarea
+                    rows="1"
+                    data-min-rows="3"
+                    placeholder="e-mail address"
+                    id="email"
+                    name="email"
+                  ></textarea
+                  ><br />
+                  <textarea
+                    class="autoExpand"
+                    rows="3"
+                    data-min-rows="3"
+                    placeholder="comments"
+                    id="comments"
+                    name="comments"
+                  ></textarea
+                  ><br />
+                  <button class="btn btn-dark" type="submit">Submit</button>
+                </form>
+              </div>
+            </div>
+            <div class="p-4">
+              <h4 class="font-italic">References</h4>
+              <ol class="list-unstyled mb-0">
+                <li>
+                  <a
+                    href="https://www.csnpe-nslsc.canada.ca/en/glossary"
+                    target="_blank"
+                    >National Student Loans Service Centre (NSLSC)</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://www.ontario.ca/page/osap-ontario-student-assistance-program"
+                    target="_blank"
+                    >Ontatio Student Assistance Program (OSAP)</a
+                  >
+                </li>
+              </ol>
+            </div>
+          </aside>
+          <!-- /.blog-sidebar -->
+        </div>
+        <!-- /.row -->
+        <footer class="blog-footer">
+          <p>A website by Samāha</p>
+          <div>
+            Icons made by
+            <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
+              >Freepik</a
+            >
+            from
+            <a href="https://www.flaticon.com/" title="Flaticon"
+              >www.flaticon.com</a
+            >
+          </div>
+          <a href="https://www.freepik.com/free-photos-vectors/background"
+            >Background vector created by rawpixel.com - www.freepik.com</a
+          >
+          <p>
+            <a href="#">Back to top</a>
           </p>
-          <!--<p class="lead mb-0"><a href="#fifth" class="text-white font-weight-bold">Start reading...</a></p>-->
-        </div>
-      </div>
-
-      <div class="row mb-2">
-        <div class="col-md-6">
-          <div
-            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
-          >
-            <div class="col p-4 d-flex flex-column position-static">
-              <strong class="d-inline-block mb-2 text-success">Islam</strong>
-              <h3 class="mb-0">Rulings with regards to taking loans</h3>
-              <div class="mb-1 text-muted">Read time: 5 min</div>
-              <p class="card-text mb-auto">
-                Also re: zakaat, qurbani/udhiya, hajj/umrah while in debt.
-              </p>
-              <a href="#first" class="stretched-link">Continue reading</a>
-            </div>
-            <div class="col-auto d-none d-lg-block icons">
-              <img src="./assets/scroll.png" width="100" height="100" />
-              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div
-            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
-          >
-            <div class="col p-4 d-flex flex-column position-static">
-              <strong class="d-inline-block mb-2 text-danger">Important</strong>
-              <h3 class="mb-0">The "Grace Period" is NOT interest free</h3>
-              <div class="mb-1 text-muted">Read time: 2 min</div>
-              <p class="mb-auto">
-                Contrary to popular belief, interest accumulates during the
-                grace period.
-              </p>
-              <a href="#second" class="stretched-link">Continue reading</a>
-            </div>
-            <div class="col-auto d-none d-lg-block icons">
-              <img src="./assets/error.png" width="100" height="100" />
-              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div
-            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
-          >
-            <div class="col p-4 d-flex flex-column position-static">
-              <strong class="d-inline-block mb-2 text-primary">Advice</strong>
-              <h3 class="mb-0">Tips on navigating your student loan</h3>
-              <div class="mb-1 text-muted">Read time: 5 min</div>
-              <p class="mb-auto">
-                Important steps to take to set yourself up to avoid interest.
-              </p>
-              <a href="#third" class="stretched-link">Continue reading</a>
-            </div>
-            <div class="col-auto d-none d-lg-block icons">
-              <img src="./assets/direction.png" width="100" height="100" />
-              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div
-            class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
-          >
-            <div class="col p-4 d-flex flex-column position-static">
-              <strong class="d-inline-block mb-2 text-warning">FAQ</strong>
-              <h3 class="mb-0">Common Questions</h3>
-              <div class="mb-1 text-muted">Read time: 4 min</div>
-              <p class="mb-auto">
-                We recommend you read these in order to get a good understanding
-                of how the policies affect real cases.
-              </p>
-              <a href="#fourth" class="stretched-link">Continue reading</a>
-            </div>
-            <div class="col-auto d-none d-lg-block icons">
-              <img src="./assets/question.png" width="100" height="100" />
-              <!-- <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg> -->
-            </div>
-          </div>
-        </div>
-      </div>
+        </footer>
+      </main>
     </div>
 
-    <main role="main" class="container">
-      <div class="row">
-        <div class="col-md-8 blog-main">
-          <h3 align="center" class="pb-4 mb-4 font-italic border-bottom">﷽</h3>
-
-          <div class="blog-post">
-            <zero-md src="./content/fatwa.md"></zero-md>
-          </div>
-
-          <div class="blog-post">
-            <zero-md src="./content/policies.md"></zero-md>
-          </div>
-          <!-- /.blog-post -->
-
-          <div class="blog-post">
-            <zero-md src="./content/advice.md"></zero-md>
-          </div>
-          <!-- /.blog-post -->
-
-          <div class="blog-post">
-            <zero-md src="./content/faq.md"></zero-md>
-          </div>
-          <!-- /.blog-post -->
-
-          <div class="blog-post">
-            <zero-md src="./content/disclaimer.md"></zero-md>
-          </div>
-        </div>
-        <!-- /.blog-main -->
-
-        <aside class="col-md-4 blog-sidebar">
-          <div class="p-4 mb-3 bg-light rounded">
-            <h4 class="font-italic">About us</h4>
-            <p class="mb-0">
-              This website was made by members of Samāha, a group focused on
-              helping the muslim community at large using the diverse set of
-              talents from students, muslim professionals and scholars in order
-              to attain the pleasure of Allah ‎ﷻ
-            </p>
-          </div>
-          <div class="p-4">
-            <h4 class="font-italic">Contact us</h4>
-            <p>
-              If you would like to stay in the loop about our future projects or
-              would like to get involved please subscribe to our newsletter.
-            </p>
-            <p>
-              <em
-                >Don't worry, we don't like spam emails either. We'll only email
-                when we need to.</em
-              >
-            </p>
-            <div>
-              <form id="contactForm" name="feedback" data-netlify="true">
-                <textarea
-                  rows="1"
-                  data-min-rows="3"
-                  placeholder="Full Name"
-                  id="fullname"
-                  name="name"
-                ></textarea
-                ><br />
-                <textarea
-                  rows="1"
-                  data-min-rows="3"
-                  placeholder="e-mail address"
-                  id="email"
-                  name="email"
-                ></textarea
-                ><br />
-                <textarea
-                  class="autoExpand"
-                  rows="3"
-                  data-min-rows="3"
-                  placeholder="comments"
-                  id="comments"
-                  name="comments"
-                ></textarea
-                ><br />
-                <button class="btn btn-dark" type="submit">Submit</button>
-              </form>
-            </div>
-          </div>
-          <div class="p-4">
-            <h4 class="font-italic">References</h4>
-            <ol class="list-unstyled mb-0">
-              <li>
-                <a
-                  href="https://www.csnpe-nslsc.canada.ca/en/glossary"
-                  target="_blank"
-                  >National Student Loans Service Centre (NSLSC)</a
-                >
-              </li>
-              <li>
-                <a
-                  href="https://www.ontario.ca/page/osap-ontario-student-assistance-program"
-                  target="_blank"
-                  >Ontatio Student Assistance Program (OSAP)</a
-                >
-              </li>
-            </ol>
-          </div>
-        </aside>
-        <!-- /.blog-sidebar -->
-      </div>
-      <!-- /.row -->
-      <footer class="blog-footer">
-        <p>A website by Samāha</p>
-        <div>
-          Icons made by
-          <a href="https://www.flaticon.com/authors/freepik" title="Freepik"
-            >Freepik</a
-          >
-          from
-          <a href="https://www.flaticon.com/" title="Flaticon"
-            >www.flaticon.com</a
-          >
-        </div>
-        <a href="https://www.freepik.com/free-photos-vectors/background"
-          >Background vector created by rawpixel.com - www.freepik.com</a
-        >
-        <p>
-          <a href="#">Back to top</a>
-        </p>
-      </footer>
-    </main>
     <!-- /.container -->
 
     <script

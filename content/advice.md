@@ -1,5 +1,3 @@
-# <u>Some OSAP Advice</u>
-
 In theory, paying off debts is very simple. However, in reality, many people experience varying difficulties paying off their student loans. Just search current consumer and student debt numbers to see what we mean. Here are some practical advices that can help you better manage student debt:
 
 Don’t require an OSAP loan. What does this mean? Start saving early! For some, they are fortunate enough to have an education savings plan. By the time they reach post-secondary education, they have enough money saved up to pay for their education without requiring any external financial assistance. If you are in this group, consider yourself very fortunate and make the most of this blessing. Many of us, however, do not have an education savings plan that can fully or even partially cover our expenses. Fortunately, there are still things we can do to afford post secondary education without OSAP.

@@ -1,5 +1,3 @@
-# <u>Important Policies and Definitions</u>
-
 The Ontario Student Assistant Program (OSAP) provides funds to students needing financial assistance for their post secondary education. The funding is made up of 3 parts: two of which are grants that do not need to be repaid and one of which is a loan that will need to be repaid at a later date. The grants include: The **Ontario student grant** and The **Canada student grant for full time students**, whereas the loan is composed of a **Canada - Ontario integrated student loan**.
 
 It is important to keep in mind that the loan portion is an integrated provincial and federal loan. They are two independent components of the loan, each with its own properties. Later we will discuss how different rules apply to both of them separately.

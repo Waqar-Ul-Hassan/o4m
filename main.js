@@ -38,19 +38,19 @@ $(document)
 //Vue router
 const fatwa = {
   template:
-    '<div><zero-md id="first" style="text-align: justify;" src="./content/fatwa.md"></zero-md></div>',
+    '<div><h3 id="first"><u>Is OSAP permissible</u></h3><br/><zero-md style="text-align: justify;" src="./content/fatwa.md"></zero-md></div>',
 };
 const policies = {
   template:
-    '<div><zero-md id="second" style="text-align: justify;" src="./content/policies.md"></zero-md></div>',
+    '<div><h3 id="second"><u>Important Policies and Definitions</u></h3><br/><zero-md style="text-align: justify;" src="./content/policies.md"></zero-md></div>',
 };
 const advice = {
   template:
-    '<div><zero-md id="third" style="text-align: justify;" src="./content/advice.md"></zero-md></div>',
+    '<div><h3 id="third"><u>Some OSAP Advice</u></h3><br/><zero-md style="text-align: justify;" src="./content/advice.md"></zero-md></div>',
 };
 const faq = {
   template:
-    '<div><zero-md id="fourth" style="text-align: justify;" src="./content/faq.md"></zero-md></div>',
+    '<div><h3 id="fourth"><u>FAQ</u></h3><br/><zero-md style="text-align: justify;" src="./content/faq.md"></zero-md></div>',
 };
 
 const routes = [

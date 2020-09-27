@@ -1,5 +1,3 @@
-# FAQ
-
 1.  I just finished my 2nd year in a business program. I am not taking any summer courses, and I received an offer for a 4 month co-op in the fall term (Sept-Dec) of the upcoming year. Will I still have interest free status?
 
     Ans: Anytime you take a break from school, a grace period is initiated. The maximum duration of the grace period is 6 months. If you return to full-time studies during the grace period, all interest charges that have accrued during your break will be removed. In this case, because your grace period starts at the beginning of May and finishes at the end of December (a total of 8 months) the interest charges will remain on your account. There are three possible solutions for avoiding interest in this case: (1) you enrol in full-time studies during the summer term or (2) try to somehow take a 60% course load during your co-op term or (3) you decline the coop position, and resume your full-time studies in September.

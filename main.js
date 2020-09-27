@@ -37,16 +37,20 @@ $(document)
 
 //Vue router
 const fatwa = {
-  template: '<zero-md id="first" src="./content/fatwa.md"></zero-md>',
+  template:
+    '<div><zero-md id="first" style="text-align: justify;" src="./content/fatwa.md"></zero-md></div>',
 };
 const policies = {
-  template: '<zero-md id="second" src="./content/policies.md"></zero-md>',
+  template:
+    '<div><zero-md id="second" style="text-align: justify;" src="./content/policies.md"></zero-md></div>',
 };
 const advice = {
-  template: '<zero-md id="third" src="./content/advice.md"></zero-md>',
+  template:
+    '<div><zero-md id="third" style="text-align: justify;" src="./content/advice.md"></zero-md></div>',
 };
 const faq = {
-  template: '<zero-md id="fourth" src="./content/faq.md"></zero-md>',
+  template:
+    '<div><zero-md id="fourth" style="text-align: justify;" src="./content/faq.md"></zero-md></div>',
 };
 
 const routes = [

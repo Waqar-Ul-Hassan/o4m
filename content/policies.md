@@ -28,7 +28,7 @@ In short, if you return to school as a full-time student within the grace period
 
 ## Interest free status/switching to part-time studies
 
-Once you take an OSAP loan for full-time studies, you are required to maintain full-time status or be registered in an approved internship in order to qualify for the interest-free status. In other words, as long as you remain in the “In-Study Category”, you will not have to make any payments and interest will not accrue. If at any time you wish to either switch into part-time studies (take less than 60% of the course load per term) or take a period of time off from school for longer than 6 months, **interest will start to accumulate.** If you haven't yet started your full-time studies you may consider starting off with a part-time OSAP loan to allow for more flexibility. Check the advices section below for more information.
+Once you take an OSAP loan for full-time studies, you are required to maintain full-time status or be registered in an approved internship in order to qualify for the interest-free status. In other words, as long as you remain in the “In-Study Category”, you will not have to make any payments and interest will not accrue. If at any time you wish to either switch into part-time studies (take less than 60% of the course load per term) or take a period of time off from school for longer than 6 months, **interest will start to accumulate.** If you haven't yet started your full-time studies you may consider starting off with a part-time OSAP loan to allow for more flexibility. Check the advices section for more information.
 
 To learn more about continuation of interest free status click [here.](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019241.html)
 

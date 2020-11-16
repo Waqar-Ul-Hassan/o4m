@@ -1,30 +1,36 @@
-The Ontario Student Assistant Program (OSAP) provides funds to students needing financial assistance for their post secondary education. The funding is made up of 3 parts: two of which are grants that do not need to be repaid and one of which is a loan that will need to be repaid at a later date. The grants include: The **Ontario student grant** and The **Canada student grant for full time students**, whereas the loan is composed of a **Canada - Ontario integrated student loan**.
+The Ontario Student Assistant Program (OSAP) provides funds to students needing financial assistance for their post secondary education. The funding is made up of three parts, two of which are grants and one of which is a loan.
 
-It is important to keep in mind that the loan portion is an integrated provincial and federal loan. They are two independent components of the loan, each with its own properties. Later we will discuss how different rules apply to both of them separately.
+**Grants** are essentially free money provided by the government to reduce the overall loans on students. Students do not need to repay grants. The grants include the **Ontario student grant** and the **Canada student grant for full time students**.
 
-**Grants** are essentially free money provided by the government to reduce the overall loans on students. Students do not need to repay grants. **Loans** are NOT FREE money. All loans will need to be paid off at an eventual date.
+**Loans** are NOT FREE money. All loans will need to be paid off at an eventual date. The loan is composed of a **Canada - Ontario integrated student loan**.
 
-**Pro-Tip:** Use extra grants/ scholarships/ bursaries that are left over after educational expenses to pay off loans as soon as possible.
+It is important to keep in mind that the loan portion of funding is an integrated _provincial_ and _federal_ loan. They are two independent components of the loan, each with its own properties. Later, we will discuss how different rules apply to both of them, separately.
 
-During the life of a student, they are put within three categories depending on their current status.
+_Pro-Tip: Use extra grants/scholarships/bursaries that are left over after educational expenses to pay off loans as soon as possible._
 
-1.  The **_In-Study_** category is defined as when a student is currently in school pursuing education. In this stage, students **are not required to make any payments and DO NOT accumulate any interest** on outstanding loans, provided enrollment is confirmed every year.
-2.  The **_Non-Repayment_** category is known as a “grace period” and occurs when the student is no longer within the _In-Study_ period, lasting 6 months after _In-Study_ status ends. In this stage, the student **does not need to make any payments** towards outstanding loans, but, they **do begin to accumulate interest** on those loans. More details of this phase are discussed below.
-3.  The **_Repayment_** category is when the _Non-Repayment_ stage ends, and students are mandated to begin paying off their loans.
+A student always has one of the three following statuses:
+
+1.  **In-Study**: when a student is currently enrolled at a post-secondary institution. Students are **not required to make any payments and DO NOT accumulate any interest** on outstanding loans, provided enrollment is confirmed every year.
+2.  **Non-Repayment**: a period lasting 6 months after _In-Study_ status ends. The student is **not expected to make any payments, but DO accumulate interest** on oustanding loans. More details are discussed below. Also known as a “grace period”.
+3.  **Repayment**: when the _Non-Repayment_ stage ends, and a student is **expected to pay off oustanding loans**.
 
 _For more general information click [here](https://www.ontario.ca/page/learn-about-osap)._
 
 ## Grace period: What is it?
 
-The **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not required to start repaying your loan. However, what many students don’t realize is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provinical portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
+A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t realize is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provinical portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
 
 **\*Note:** After the [changes made by the provincial government](https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html), interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion.
 
 ## Grace period: Forgiven Interest
 
-Many students think of the grace period as the six-month interest-free period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of the last OSAP-funded term. For most students, this is usually the end of April, when they finish their Winter semester. So, during summer break, if you are not taking any spring or summer courses, interest starts to accumulate (even if you are planning to return to school for the fall semester). However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months. By returning to school in September, you return to the In-Study category. It is only if you do not decide to return to school for the fall semester that the interest will not be forgiven, and it will be added on to your outstanding loan. This is the case regardless of which term you are not in school. For example, if you take the winter semester off (4 months) but return in the spring/summer semester as a full-time student, the same rule will apply to you. However, if you take the winter semester AND the spring/summer semester off (8 months) you will have accrued interest and will even be required to start repaying your loans after the 6-month mark. The only exception to the 6-month maximum is if you are registered in an approved co-op placement.
-
-In short, if you return to school as a full-time student within the grace period (6 months) the accrued interest will be forgiven.
+[comment]: <> (Text goes from third person to second. "You" should be avoided. Either re-work second person, or revise.)
+If a student returns to school as a full-time student within the grace period (6 months) the accrued interest will be forgiven.
+[comment]: <> (Consider revising second person)
+Many students think of the grace period as the six-month interest-free period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of the last OSAP-funded term. For most students, this is usually the end of April, when they finish their Winter semester. So, during summer break, if you are not taking any spring or summer courses, interest starts to accumulate (even if you are planning to return to school for the fall semester). However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months.
+[comment]: <> (Consider revising second person)
+By returning to school in September, you return to the In-Study category. It is only if you do not decide to return to school for the fall semester that the interest will not be forgiven, and it will be added on to your outstanding loan. This is the case regardless of which term you are not in school. For example, if you take the winter semester off (4 months) but return in the spring/summer semester as a full-time student, the same rule will apply to you. However, if you take the winter semester AND the spring/summer semester off (8 months) you will have accrued interest and will even be required to start repaying your loans after the 6-month mark. The only exception to the 6-month maximum is if you are registered in an approved co-op placement.
+[comment]: <> (To continue revising from here)
 
 ## Interest free status/switching to part-time studies
 

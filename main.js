@@ -38,7 +38,7 @@ $(document)
 //Vue router
 const fatwa = {
   template:
-    '<div><h3 id="first"><u>Is OSAP permissible</u></h3><br/><zero-md src="./content/fatwa.md"></zero-md></div>',
+    '<div><zero-md id="first" src="./content/fatwa.md"></zero-md></div>',
 };
 const policies = {
   template:

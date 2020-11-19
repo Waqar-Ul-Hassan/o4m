@@ -104,7 +104,17 @@ There are a few [cases](https://www.ontario.ca/page/after-you-apply-osap) in whi
 
 ## Continuation of studies but not taking OSAP?
 
-If you already have an outstanding OSAP loan and you plan to continue full-time or part-time studies without applying for an OSAP loan (i.e. you are paying for tuition out of pocket), you can still apply for continuation of interest-free status. This will prevent interest from accruing on your previous full-time loans. Simply apply for interest-free status on OSAP’s website. For more info click [here](https://www.ontario.ca/page/after-you-apply-osap).
+If you already have an outstanding OSAP loan and you plan to continue full-time or part-time studies without applying for an OSAP loan (i.e. you are paying for tuition out of pocket), you can still apply for continuation of interest-free status. This will prevent interest from accruing on your previous full-time loans. Simply apply for interest-free status on OSAP’s website.
+
+**Note:** When you enroll into full-time studies it does not have to be a public postsecondary school in Ontario, you can check this [list](https://osap.gov.on.ca/SchoolSearchWeb/search/school_search.xhtml?lang=en) for other approved schools. If the school is not on the list you can submit this [form](https://osap.gov.on.ca/prodconsumption/groups/forms/documents/forms/tcont003568.pdf) to apply for interest-free status consideration.
+
+- To be considered for interest-free status, your study period must be between 6 and 52 weeks long.
+- All aspects of your study period, including co-op work terms and work placements, can be included for interest-free status consideration provided your program is:
+    - approved for full-time OSAP purposes and leads to a degree, diploma or certificate; or
+    - academic upgrading at a public college or university in Ontario (e.g., high school equivalency programs, English or French as a second language, pre-university programs); or
+    - a pre-requisite program for admission into either a university graduate studies program or a second entry level degree program.
+
+For more info click [here](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019241.html).
 
 ## OSAP Lifetime limit
 

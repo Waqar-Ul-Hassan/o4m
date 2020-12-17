@@ -61,6 +61,7 @@ const routes = [
   { path: "/faq", component: faq },
 ];
 const router = new VueRouter({
+  mode: 'history',
   routes,
 });
 const app = new Vue({

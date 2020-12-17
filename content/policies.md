@@ -40,7 +40,7 @@ There are 2 ways to extend the grace period from 6 months to 1 year:
 
 **Note:** You must apply within the first grace period (6 months)
 
-**Note:** From the links below, we understood that this extension only applies to the Ontario portion of the Canada-Ontario Integrated Student loan. Which means you may have to start making payments for the Canada portion of the loan and interest would start accruing for both portions after the initial 6 months.
+**Note:** From the links below, we understood that this extension only applies to the Ontario portion of the Canada-Ontario Integrated Student loan. Which means you may have to start making payments for the Canada portion of the loan.
 
 ### Extension for Not-For-Profit Employees
 

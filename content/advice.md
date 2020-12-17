@@ -2,13 +2,13 @@ In theory, paying off debts is very simple. However, in reality, many people exp
 
 Don’t require an OSAP loan. What does this mean? Start saving early! For some, they are fortunate enough to have an education savings plan. By the time they reach post-secondary education, they have enough money saved up to pay for their education without requiring any external financial assistance. If you are in this group, consider yourself very fortunate and make the most of this blessing. Many of us, however, do not have an education savings plan that can fully or even partially cover our expenses. Fortunately, there are still things we can do to afford post secondary education without OSAP.
 
-##### <u>Precautionary Advice</u>
+#### <u>Precautionary Advice</u>
 
 You may choose to start off your post secondary education as a part-time student i.e. you are enrolled in 20-59% of your program’s full-time course load. As you read in the policies section, if you start off as a full-time student, it may feel like you're trapped in your post-secondary education since you can't take a long period of time off to work. So some students opt for part-time studies for various reasons such as being able to better manage their studies or so that they can have more time to work. All of the above mentioned policies will still apply to you, except there is one important difference: if you want to apply for continuation of interest-free status during your part-time studies, you will have to fill out the [schedule-2](https://www.canada.ca/en/services/benefits/education/student-aid/grants-loans/information/forms.html) form to confirm your enrolment in part-time studies.
 
 Note: Interest will accrue on your account every month. However, it will be removed from your account at the end of each month as long as you are still enrolled in part-time studies. Call [NSLSC](https://protege-secure-2.csnpe-nslsc.canada.ca/eng/ContactUs.aspx) for more information.
 
-##### <u>Before post secondary education</u>
+#### <u>Before post secondary education</u>
 
 ## Start working and saving early!
 
@@ -18,7 +18,7 @@ Many teenagers pick up part time work during high-school. Make a decent resume a
 
 There are millions of dollars in unclaimed scholarships every year. Make a schedule where you can slowly, but consistently apply to as many scholarships as you can. Research online the best resources and techniques to help you with your applications. It’s going to be tough work, but the rewards are great! Imagine getting hundreds of dollars by only putting in 1 hour of work a day! Don’t be lazy like most people; take action!
 
-##### <u>During post secondary education</u>
+#### <u>During post secondary education</u>
 
 ## Apply for OSAP Grants only
 
@@ -38,7 +38,7 @@ If you are in a registered Co-op program, make use of your school’s job board 
 
 **Note:** It is important not to put all your trust in the ability to get a long term internship. Make backup plans in case you are unable to find an internship.
 
-##### <u>At the end of post secondary education and beyond</u>
+#### <u>At the end of post secondary education and beyond</u>
 
 Congratulations on successfully completing your formal education! If you have made it this far without taking any loans, you are indeed very successful today, and have an incredible head start in life.
 

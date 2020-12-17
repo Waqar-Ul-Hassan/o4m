@@ -11,8 +11,8 @@ _Pro-Tip: Use extra grants/scholarships/bursaries that are left over after educa
 A student always has one of the three following statuses:
 
 1.  **In-Study**: when a student is currently enrolled at a post-secondary institution. Students are **not required to make any payments and DO NOT accumulate any interest** on outstanding loans, provided enrollment is confirmed every year.
-2.  **Non-Repayment**: a period lasting 6 months after _In-Study_ status ends. The student is **not expected to make any payments, but DO accumulate interest** on oustanding loans. More details are discussed below. Also known as a “grace period”.
-3.  **Repayment**: when the _Non-Repayment_ stage ends, and a student is **expected to pay off oustanding loans**.
+2.  **Non-Repayment**: a period lasting 6 months after _In-Study_ status ends. The student is **not expected to make any payments, but DO accumulate interest** on outstanding loans. More details are discussed below. Also known as a “grace period”.
+3.  **Repayment**: when the _Non-Repayment_ stage ends, and a student is **expected to pay off outstanding loans**.
 
 _For more general information click [here](https://www.ontario.ca/page/learn-about-osap)._
 

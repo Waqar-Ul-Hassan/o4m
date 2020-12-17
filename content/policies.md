@@ -11,14 +11,14 @@ _Pro-Tip: Use extra grants/scholarships/bursaries that are left over after educa
 A student always has one of the three following statuses:
 
 1.  **In-Study**: when a student is currently enrolled at a post-secondary institution. Students are **not required to make any payments and DO NOT accumulate any interest** on outstanding loans, provided enrollment is confirmed every year.
-2.  **Non-Repayment**: a period lasting 6 months after _In-Study_ status ends. The student is **not expected to make any payments, but DO accumulate interest** on oustanding loans. More details are discussed below. Also known as a “grace period”.
-3.  **Repayment**: when the _Non-Repayment_ stage ends, and a student is **expected to pay off oustanding loans**.
+2.  **Non-Repayment**: a period lasting 6 months after _In-Study_ status ends. The student is **not expected to make any payments, but DO accumulate interest** on outstanding loans. More details are discussed below. Also known as a “grace period”.
+3.  **Repayment**: when the _Non-Repayment_ stage ends, and a student is **expected to pay off outstanding loans**.
 
 _For more general information click [here](https://www.ontario.ca/page/learn-about-osap)._
 
 ## Grace period: What is it?
 
-A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t realize is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provinical portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
+A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t realize is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provincial portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
 
 **\*Note:** After the [changes made by the provincial government](https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html), interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion.
 

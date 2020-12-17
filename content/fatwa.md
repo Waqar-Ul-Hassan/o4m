@@ -1,60 +1,48 @@
-_The following are answers published by [Mathabah](https://www.mathabah.org/), links to all answers can be found near the bottom_
+_The following is an answer from [Darul Uloom Canada](https://www.ducanada.org/) and a statement from [Mathabah](https://www.mathabah.org/zakah-for-students-pursuing-education/)_
 
-## Interest in Islam
+From the outset, it should be understood that the payment of interest is undoubtedly impermissible in Islām. The basis of this prohibition are explicit textual evidences from the Qur’ān and Sunnah. Consider the following verses of the Qur’an and ahadith:
 
-“Those who devour usury will not stand except as stands one whom the Satan by his touch has driven to madness. That is because they say, “trade is like usury”, but Allāh has permitted trade and has forbidden usury. Allāh will deprive usury of all blessing, and will give increase for deeds of charity, for he does not love any ungrateful sinner. (Qur‘ān 2:275, 276)
+>“Those who devour usury will not stand except as stands one whom the Satan by his touch has driven to madness. That is because they say, “trade is like usury”, but Allāh has permitted trade and has forbidden usury. Allāh will deprive usury of all blessing, and will give increase for deeds of charity, for he does not love any ungrateful sinner. (Qur‘ān 2:275, 276)
 
-“O you who believe! Fear Allāh and give up what remains of your demand for usury if you are indeed believers. If you do not, take notice of war from Allāh and His Messenger (peace and blessings upon him) but if you repent you shall have your capital sum. Deal not unjustly and you shall not be dealt with unjustly.” (Qur‘ān 2:278, 279)
+>“O you who believe! Fear Allāh and give up what remains of your demand for usury if you are indeed believers. If you do not, take notice of war from Allāh and His Messenger (peace and blessings upon him) but if you repent you shall have your capital sum. Deal not unjustly and you shall not be dealt with unjustly.” (Qur‘ān 2:278, 279)
 
-“O you who believe! Devour not usury doubled and multiplied; but fear Allāh that you may prosper.” (Qur‘ān 3:130)
+>“O you who believe! Devour not usury doubled and multiplied; but fear Allāh that you may prosper.” (Qur‘ān 3:130)
 
-“That they took usury though they were forbidden and they devoured peoples wealth wrongfully; we have prepared for those amongst them who reject faith a grievous chastisement.” (Qur‘ān 4:161)
+>“That they took usury though they were forbidden and they devoured peoples wealth wrongfully; we have prepared for those amongst them who reject faith a grievous chastisement.” (Qur‘ān 4:161)
 
-“That which you give in usury for increase through the property of people will have no increase with Allāh: but that which you give for charity seeking the countenance of Allāh, it is these who will get a recompense multiplied.” (Qur‘ān 30:39)
+>“That which you give in usury for increase through the property of people will have no increase with Allāh: but that which you give for charity seeking the countenance of Allāh, it is these who will get a recompense multiplied.” (Qur‘ān 30:39)
 
-Jābir (may Allāh be pleased with him) reported that the “Messenger of Allāh (peace and blessings upon him) cursed the devourer of usury, its payer, its scribe and its two witnesses. He also said that they were equal (in sin)” (Muslim)
+>Jābir (may Allāh be pleased with him) reported that the “Messenger of Allāh (peace and blessings upon him) cursed the devourer of usury, its payer, its scribe and its two witnesses. He also said that they were equal (in sin)” (Muslim)
 
-Abū Hurayrah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “I came across some people in the night in which I was taken to the heavens. Their stomachs were like houses wherein there were serpents, which could be seen from the front of their stomachs. I asked, O Gabriel! Who are these people? He replied these are those who devoured usury.” (Musnad Aḥmed, Ibn Mājah)
+>Abū Hurayrah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “I came across some people in the night in which I was taken to the heavens. Their stomachs were like houses wherein there were serpents, which could be seen from the front of their stomachs. I asked, O Gabriel! Who are these people? He replied these are those who devoured usury.” (Musnad Aḥmed, Ibn Mājah)
 
-‘Omar bin Al-Khaṭṭāb (may Allāh be pleased with him) reported, “The last of what was revealed was the verse of usury . . . so, give up usury!” (Ibn Mājah, Dārimi)
+>‘Omar bin Al-Khaṭṭāb (may Allāh be pleased with him) reported, “The last of what was revealed was the verse of usury . . . so, give up usury!” (Ibn Mājah, Dārimi)
 
-Abd Allāh bin Hanzalah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “A dirham of usury that a man devours and he knows is greater than 36 fornications.” (Musnad Aḥmed, Dār Quṭnī)
+>Abd Allāh bin Hanzalah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “A dirham of usury that a man devours and he knows is greater than 36 fornications.” (Musnad Aḥmed, Dār Quṭnī)
 
-## Is OSAP permissible?
+As such, it would only be permissible for a person to take a student loan if they would not be required to pay interest. However, if interest is stipulated in the loan contract but does not begin to accrue for a certain period of time (i.e. there is a grace period before the interest charges begin), it would only be permissible to take such a loan provided one is absolutely confident that he/she will be able to pay it off on time to ensure that no interest will be paid. If one is doubtful in regards to their ability to pay off the loan before interest accrues, one must abstain from taking such a loan.
 
-_Answered by Muftī Shujaʾath ʿAlī_
+With the above details in mind, the answers to your queries may be found below:
 
-In the Name of God, Most Kind, Most Merciful
+### Is OSAP permissible?
+It is permissible to apply for OSAP or other financial aid programs to help students with their student loans.
 
-Jazak Allāh Khayr Thank you for your question.
+### Do OSAP students have to pay zakah?
+When calculating the amount of zakāh one owes, a person should deduct any debts from their zakatable assets. Thereafter, if the remaining amount is equivalent to nisāb (i.e. the value of 612.36 grams of silver), one would pay 2.5% of that amount in zakāh. In regards to long-term debts (debts which are to be paid off over a certain number of years) such as student loans, the entire loan would only be deducted in the case where one is actively trying to pay off the debt. Otherwise, one should only deduct the amount of the loan they intend to pay the upcoming year.
 
-Without any discrimination between secular and religious studies, Islam has considered education as a basic human right. There are many prophetic narrations that shed light on this topic, such as,
+### Do OSAP students have to perform udhiya/qurbani?
+Udḥiya is binding on sane and mature individuals (who are not travellers on the days of ‘Eīd) whose total assets (after deducting debts) are equivalent to or exceed the quantum of nisāb. The details regarding the deduction of long-term debts such as student loans are the same as mentioned above.
 
-> “Seek knowledge even if you must travel to China for it.” – (Bayhaqī)
+### Can OSAP students go to hajj/umrah? (Includes note on sadaqat-ul-fitr)
+Long-term debts, such as student loans, will be deducted when calculating one’s assets if one is actively trying to pay off their loan. However, if one is not actively trying to pay off their loan and is rather doing so in fixed installments, they should only deduct the amount of the loan they intend to pay off the following year. The same principle would be applied when calculating one’s assets to determine if they are liable for zakāh, sadaqa al-fitr, udḥiya, or Haj.
 
-This stance of Islam regarding education is because, the prosperity of individuals, as well as the human society depends on it. For this reason, Islam has laid this responsibility on the Muslim government  to make education accessible to all.
+And Allah knows best.  
+Omar Baig  
+Approved by: Mufti Husain Ahmad Madani
+---
+_Statement from Mathabah_
 
-In countries where Muslims live under the rule of non-Islamic governments, and face difficulty in having easy access to higher education, they should first turn to Muslim organizations or governments that offer scholarships or islamicaly appropriate financing, for education. If they do not succeed in availing such interest free loans or scholarships, in such situations, muslim jurists have permitted to obtain interest based education loans strictly for education, provided the student has no savings or has no way to obtain an interest free loan. In such a circumstance, the muslim student must make a sincere intention to pay off the loan as soon as possible. This is the resolution passed by the very well-known Islamic fiqh academy in India. Please refer to the document “Fiqh Academy Ke Aham Faisale”.
-
-The great jurist, Muftī Khālid Saifullāh Al-Raḥmānī has also written in his monumental work, ‘Jadīd Fiqhī Masāil’, “In a pressing need for basic rights, one may take advantage of an interest based loan, when there is no other alternative, for an islamicaly appropriate loan.”
-
-And Allāh Knows Best.
-
-## Do students taking OSAP have to pay zakah?
-
-_Answered by Shaykh ʿOmar Subedār_
-
-بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
-
-May Allāh make you successful in your studies and ultimately in your career.
-
-Regarding your query on zakāh, if you have a surplus amount of wealth that is equal or exceeds the nisāb of silver, which happens to be 612.36 grams, you will be obligated to pay zakāh provided your debt is not greater than your surplus and you’ve possessed the funds for a complete lunar year. If your debt is greater than your surplus then you will have to determine the type of debt it is first. If you are repaying your debt through monthly instalments over a period of time, as is normally the case with OSAP, then you will just deduct the payment due on the month you pay your zakāh (and according to some jurists the whole year’s payments) and pay zakāh on the difference. If however the debt must be repaid immediately then you will not be compelled to pay any zakāh whatsoever.
-
-As for your gold, if it does not amount to 87.84 grams then neither you nor your parents have to pay any zakāh on it.
-
-And Allāh Knows Best
-
-## Can OSAP students receive zakah?
+### Can OSAP students receive zakah?
 
 By the grace of Almighty God, here in Canada, Muslims discharge their charity, zakāh, ṣadaqat al fiṭr and donations to local mosques in many cases. The Muslim community deputes the managements of mosques as their representatives for these amounts to be discharged and the obligation to be fulfilled on their behalf. The community trusts these responsible personnel of mosques to ensure that the rightful recipients receive the funds. For many years now, mosque managements have been fulfilling this responsibility. May the Almighty grant them a tremendous reward. Āmīn.
 
@@ -95,55 +83,6 @@ In order to bring these requests into practice, rules and guidelines can be esta
 - Shaykh Habeeb Ally
 - Shaykh Shakir Pandor
 
-## Do students taking OSAP have to perform udhiyya/qurbani?
-
-_By Shaykh Yūsuf Badāt_
-
-The act is an emphasized prophetic practice (sunnah muakkadah) that should only be left out if one has a genuine excuse to do so. In Islamic jurisprudence, some schools, such as the Ḥanafī denomination, consider the Qurbānī as a necessary (wājib) practice. (See: Kitāb Al-Fiqh ʿAlā Madhāhib Al-ʿArbaʿah, Aḥkām Al-Qurʾān, Al-Mugnīy, Al-Majmuʾ, Fatḥ Al-Qadīr)
-
-> “Offer prayer to your Lord and sacrifice [animals].” (Qur’ān 108:2)
-
-> “The Messenger of God (peace and blessings upon him) resided in Madīnah for ten years. He rendered the Udḥiyyah (ritual sacrifice) every year.” (Musnad Aḥmad)
-
-Based on the principle above, every adult Muslim who has sufficient funds to purchase an animal on the days of slaughter (10th, 11th and 12th of Dhūl Ḥijjah) should conduct the Qurbānī/ Udḥiyyah. One is not required to do Qurbānī on behalf of dependents. (See: Al-Badāʿi Al-Ṣanāʿi)
-
-## Is it permissible to go on hajj/umrah while taking OSAP?
-
-_Answered by Shaykh Yusuf Badat_
-
-Jazakumullahu Khayran/ Thank you for your question.
-
-May Allah bless you for your sincere intentions to increase in rendering good deeds.
-
-It is important to note that paying off debts is an obligatory injunction and one will be questioned regarding outstanding debts by Almighty Allah. There is no doubt that it would be strongly advised to pay off your debts rather than proceed for Hajj.
-
-It is however worthy to mention that your Hajj would still be considered complete In-sha Allah, if you do choose to proceed without settling debts.
-
-Some amongst the learned have also stated that if you seek permission from your creditors, or in the case where you are making steady installment payments, that would not be affected due to the Hajj journey, there would be no objection in proceeding for Hajj.
-
-Regarding debt, the Prophet (peace and blessings be upon him) has stated,
-> “I seek protection from disbelief and debt” (Nasai, Hakim)
-> “The one who dies in a state having even a single [outstanding] gold or silver coin, the matter will be settled (with creditors) through his good deeds, as there is no gold or silver (currency) in the hereafter.” (Ibn Majah, Tabrani)
-
-Allah Knows Best.
-
-_(From a separate question)_
-
-**Hajj While Having an Interest Based Loan**
-
-Hajj is only obligatory upon those who are free from debt. However if one wishes to proceed while still being in a state of debt, it is permissible. If the dept is interest based, such as in the case of your respected mother, it would be wise to first pay off the debt and then proceed for Hajj.
-
-> “As a right of Allah, it is obligatory on the people to perform Hajj of the House – on everyone who has the ability to manage (his) way to it“. (Holy Quran 3:97)
-
-Imam Hasan Shurunbulali in Nur Al Idah and Imam Fakhruddin Al Razi in Al Tafseer Al Kabeer have listed ‘paying all outstanding debts‘ as one of the conditions for Hajj to become fardh (mandatory). (See Nur Al Idah and Al Tafseer Al Kabeer)
-
-And Allah Knows Best.
-
 ### Links
-- [Interest in Islam](https://www.mathabah.org/mortgage-for-house-purchase/)
-- [Is OSAP permissible?](https://www.mathabah.org/student-loan-for-higher-education/)
-- [Do student taking OSAP have to pay zakah?](https://www.mathabah.org/is-zakah-mandatory-while-i-have-a-student-loan/)
+
 - [Can OSAP students receive zakah?](https://www.mathabah.org/zakah-for-students-pursuing-education/)
-- [Do students taking OSAP have to perform udhiyya/qurbani?](https://www.mathabah.org/ten-matters-you-always-wanted-to-know-about-qurbani-ud%e1%b8%a5iyyah/)
-- [Is it permissible to go on hajj/umrah while taking OSAP? (pt 1)](https://www.mathabah.org/hajj-while-still-repaying-loan-installments/)
-- [Is it permissible to go on hajj/umrah while taking OSAP? (pt 2)](https://www.mathabah.org/hajj-while-in-an-interest-based-loan/)

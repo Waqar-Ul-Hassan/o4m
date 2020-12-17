@@ -18,19 +18,16 @@ _For more general information click [here](https://www.ontario.ca/page/learn-abo
 
 ## Grace period: What is it?
 
-A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t realize is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provincial portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
+A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t know is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provincial portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
 
 **\*Note:** After the [changes made by the provincial government](https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html), interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion.
 
 ## Grace period: Forgiven Interest
 
-[comment]: <> (Text goes from third person to second. "You" should be avoided. Either re-work second person, or revise.)
-If a student returns to school as a full-time student within the grace period (6 months) the accrued interest will be forgiven.
-[comment]: <> (Consider revising second person)
-Many students think of the grace period as the six-month interest-free period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of the last OSAP-funded term. For most students, this is usually the end of April, when they finish their Winter semester. So, during summer break, if you are not taking any spring or summer courses, interest starts to accumulate (even if you are planning to return to school for the fall semester). However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months.
-[comment]: <> (Consider revising second person)
-By returning to school in September, you return to the In-Study category. It is only if you do not decide to return to school for the fall semester that the interest will not be forgiven, and it will be added on to your outstanding loan. This is the case regardless of which term you are not in school. For example, if you take the winter semester off (4 months) but return in the spring/summer semester as a full-time student, the same rule will apply to you. However, if you take the winter semester AND the spring/summer semester off (8 months) you will have accrued interest and will even be required to start repaying your loans after the 6-month mark. The only exception to the 6-month maximum is if you are registered in an approved co-op placement.
-[comment]: <> (To continue revising from here)
+If you return to school as a full-time student within the grace period (6 months) the accrued interest will be forgiven. Many students think of the grace period as a six-month "interest-free" period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of your last OSAP-funded term. For most students, this is usually the end of April when the Winter semester finishes. So, unless you are taking spring/summer courses, interest accumulates during your summer break even if you plan to return to school for the fall semester. However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months. By returning to school in September, you return to the In-Study category. 
+
+It is only if you decide to not return to school for the fall semester that the interest will not be forgiven and it will be added on to your outstanding loan. This is the case regardless of which term you are not in school. For example, if you take the winter semester off (4 months) but return in the spring/summer semester as a full-time student, the same rule will apply. However, if you take the winter semester AND the spring/summer semester off (8 months) you will have accrued interest and will even be required to start repaying your loans (and accrued interest) after the 6-month mark. The only exception to the 6-month maximum is if you are registered in an approved co-op placement.
+
 
 ## Grace period: Extensions
 
@@ -66,9 +63,8 @@ To be considered, you must meet the following criteria:
 
 - You left full-time postsecondary studies within the last six months.
 - You have full-time OSAP loans not currently in repayment status.
-- You are the sole owner or joint owner of an eligible new business operating in Ontario.
+- You are the sole owner or joint owner of an eligible new business operating in Ontario (includes a director or officer of the business with a controlling share).
 - You are currently working in Ontario at least 30 hours per week for your eligible new business*.
-Sole owner or joint owner includes a director or officer of the business with a controlling share.
 
 *Eligible new business means:
 
@@ -87,7 +83,7 @@ To learn more about continuation of interest free status click [here.](https://o
 
 ## Minimum Course Requirements
 
-If you are taking an OSAP loan for full time studies, you must complete and pass 60% of your course load in **each term\*** of your academic year. If you fail to do this, OSAP will place you on academic probation. This is essentially a warning for you to make sure that you pass the required number of courses in the following year. If you fail to pass 60% of the courses the following year as well then you will be put on academic restriction by OSAP. This means that you will not receive funding for one year. During that year you will have to pay out of pocket for your courses while making sure to pass the required number of courses. If you succeed then you can apply to OSAP once again for the following year. You will have to submit documentation explaining why you did not perform as expected during both the years you failed to pass the required number of courses.
+If you are taking an OSAP loan for full time studies, you must complete and pass 60% of your course load in **each term\*** of your academic year. If you fail to do this, OSAP will place you on academic probation. This is essentially a warning to make sure that you pass the required number of courses in the following year. If you fail to pass 60% of the courses the following year as well then you will be put on academic restriction by OSAP. This means that you will not receive funding for one year. During that year you will have to pay out of pocket for your courses while making sure to pass the required number of courses. If you succeed then you can apply to OSAP once again for the following year. You will have to submit documentation explaining why you did not perform as expected during both the years you failed to pass the required number of courses.
 
 **Academic year:**
 For OSAP the academic year runs from August 1 to July 31 of the following year.
@@ -142,4 +138,4 @@ Check out the [repayment assistance estimator](http://tools.canlearn.ca/cslgs-sc
 
 ## Paying with points
 
-If you have a lot of points from credit cards you can check this [website](https://www.higheredpoints.com/) to see how you can make payments using them.
+If you have points from credit cards you can check this [website](https://www.higheredpoints.com/) to see how you can make payments using them.

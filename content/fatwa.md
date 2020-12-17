@@ -1,3 +1,4 @@
+
 _The following is an answer from [Darul Uloom Canada](https://www.ducanada.org/) and a statement from [Mathabah](https://www.mathabah.org/zakah-for-students-pursuing-education/)_
 
 From the outset, it should be understood that the payment of interest is undoubtedly impermissible in Islām. The basis of this prohibition are explicit textual evidences from the Qur’ān and Sunnah. Consider the following verses of the Qur’an and ahadith:
@@ -86,3 +87,4 @@ In order to bring these requests into practice, rules and guidelines can be esta
 ### Links
 
 - [Can OSAP students receive zakah?](https://www.mathabah.org/zakah-for-students-pursuing-education/)
+

@@ -1,25 +1,14 @@
 
-_The following is an answer from [Darul Uloom Canada](https://www.ducanada.org/) and a statement from [Mathabah](https://www.mathabah.org/zakah-for-students-pursuing-education/)_
+The following is an answer from [Darul Uloom Canada](https://www.ducanada.org/)
 
-From the outset, it should be understood that the payment of interest is undoubtedly impermissible in Islām. The basis of this prohibition are explicit textual evidences from the Qur’ān and Sunnah. Consider the following verses of the Qur’an and ahadith:
+**Re: OSAP query**
 
->“Those who devour usury will not stand except as stands one whom the Satan by his touch has driven to madness. That is because they say, “trade is like usury”, but Allāh has permitted trade and has forbidden usury. Allāh will deprive usury of all blessing, and will give increase for deeds of charity, for he does not love any ungrateful sinner. (Qur‘ān 2:275, 276)
+**Answer:**  
+From the outset, it should be understood that the payment of interest is undoubtedly impermissible in Islām. The basis of this prohibition are explicit textual evidences from the Qur’ān and Sunnah. Consider the following verses of the Qur’an and hadith:
 
->“O you who believe! Fear Allāh and give up what remains of your demand for usury if you are indeed believers. If you do not, take notice of war from Allāh and His Messenger (peace and blessings upon him) but if you repent you shall have your capital sum. Deal not unjustly and you shall not be dealt with unjustly.” (Qur‘ān 2:278, 279)
+>“Allāh had made business lawful and interest unlawful." (Surah al Baqara: 275)
 
->“O you who believe! Devour not usury doubled and multiplied; but fear Allāh that you may prosper.” (Qur‘ān 3:130)
-
->“That they took usury though they were forbidden and they devoured peoples wealth wrongfully; we have prepared for those amongst them who reject faith a grievous chastisement.” (Qur‘ān 4:161)
-
->“That which you give in usury for increase through the property of people will have no increase with Allāh: but that which you give for charity seeking the countenance of Allāh, it is these who will get a recompense multiplied.” (Qur‘ān 30:39)
-
->Jābir (may Allāh be pleased with him) reported that the “Messenger of Allāh (peace and blessings upon him) cursed the devourer of usury, its payer, its scribe and its two witnesses. He also said that they were equal (in sin)” (Muslim)
-
->Abū Hurayrah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “I came across some people in the night in which I was taken to the heavens. Their stomachs were like houses wherein there were serpents, which could be seen from the front of their stomachs. I asked, O Gabriel! Who are these people? He replied these are those who devoured usury.” (Musnad Aḥmed, Ibn Mājah)
-
->‘Omar bin Al-Khaṭṭāb (may Allāh be pleased with him) reported, “The last of what was revealed was the verse of usury . . . so, give up usury!” (Ibn Mājah, Dārimi)
-
->Abd Allāh bin Hanzalah (may Allāh be pleased with him) reported that the Messenger of Allāh (peace and blessings upon him) said, “A dirham of usury that a man devours and he knows is greater than 36 fornications.” (Musnad Aḥmed, Dār Quṭnī)
+>Jābir (may Allāh be pleased with him) said that Allah's Messenger ﷺ cursed the acceptor of interest, its payer, the one who records, and even two witnesses. And the Messenger of Allah ﷺ would say that they are all equal.” (Muslim)
 
 As such, it would only be permissible for a person to take a student loan if they would not be required to pay interest. However, if interest is stipulated in the loan contract but does not begin to accrue for a certain period of time (i.e. there is a grace period before the interest charges begin), it would only be permissible to take such a loan provided one is absolutely confident that he/she will be able to pay it off on time to ensure that no interest will be paid. If one is doubtful in regards to their ability to pay off the loan before interest accrues, one must abstain from taking such a loan.
 
@@ -41,7 +30,7 @@ And Allah knows best.
 Omar Baig  
 Approved by: Mufti Husain Ahmad Madani
 ---
-_Statement from Mathabah_
+_Statement from [Mathabah](https://www.mathabah.org/zakah-for-students-pursuing-education/)_
 
 ### Can OSAP students receive zakah?
 

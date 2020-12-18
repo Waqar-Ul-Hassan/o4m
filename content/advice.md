@@ -20,7 +20,7 @@ There are millions of dollars in unclaimed scholarships every year. Make a sched
 
 #### <u>During post secondary education</u>
 
-## Apply for OSAP Grants only
+## Apply for OSAP grants only
 
 Did you know that you can apply for OSAP grants without taking any loans? Make sure to apply for the grant portion of OSAP. This is money provided by the government to fund your education, and it does not need to be paid back! Try to avoid taking the loan if you can.
 

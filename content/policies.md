@@ -16,20 +16,20 @@ A student always has one of the three following statuses:
 
 _For more general information click [here](https://www.ontario.ca/page/learn-about-osap)._
 
-## Grace period: What is it?
+## Grace Period: What Is It?
 
 A **Grace period** is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t know is that during this period, **interest starts to accumulate** [(check "Pay back OSAP")](https://www.ontario.ca/page/pay-back-osap). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are separate, and this is why: during the grace period, interest is not charged [(check "Non-repayment")](https://www.csnpe-nslsc.canada.ca/en/glossary) on the federal portion of your loan, but it is charged on the provincial portion.\* After the 6-month grace period, interest will accumulate on both components of the loan.
 
 **\*Note:** After the [changes made by the provincial government](https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html), interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion.
 
-## Grace period: Forgiven Interest
+## Grace Period: Forgiven Interest
 
 If you return to school as a full-time student within the 6-month grace period the accrued interest will be forgiven. Many students think of the grace period as a six-month "interest-free" period that begins after graduation. This is not entirely accurate. Post secondary students taking OSAP actually go through a grace period every year without even knowing about it. Each year, a grace period is initiated on the last day of your last OSAP-funded term. For most students, this is usually the end of April when the Winter semester finishes. So, unless you are taking spring/summer courses, interest accumulates during your summer break even if you plan to return to school for the fall semester. However, when you actually return to school in September, the interest gets cleared. This is because the spring/summer term is only 4 months, which is less than the maximum grace period of 6 months. By returning to school in September, you return to the In-Study category. 
 
 It is only if you decide to not return to school for the fall semester that the interest will not be forgiven and it will be added on to your outstanding loan. This is the case regardless of which term you are not in school. For example, if you take the winter semester off (4 months) but return in the spring/summer semester as a full-time student, the accrued interest will drop. However, if you take the winter semester AND the spring/summer semester off (8 months) the accrued interest will remain and you will even be required to start repaying your loans (and the accrued interest) after the 6-month mark. The only exception to the 6-month maximum is if you are registered in an approved co-op placement.
 
 
-## Grace period: Extensions
+## Grace Period: Extensions
 
 There are 2 ways to extend the grace period from 6 months to 1 year:
 1. Work in the Not-For-Profit sector
@@ -73,7 +73,7 @@ To be considered, you must meet the following criteria:
 
 For more information click [here](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR020903.html#P15_1756)
 
-## Interest free status/switching to part-time studies
+## Interest Free Status/Switching to Part-time Studies
 
 Once you take an OSAP loan for full-time studies, you are required to maintain full-time status or be registered in an approved internship in order to qualify for the interest-free status. In other words, as long as you remain in the “In-Study Category”, you will not have to make any payments and interest will not accrue. If at any time you wish to either switch into part-time studies (take less than 60% of the course load per term) or take a period of time off from school for longer than 6 months, **interest will start to accumulate.** If you haven't yet started your full-time studies you may consider starting off with a part-time OSAP loan to allow for more flexibility. Check the advices section for more information.
 
@@ -98,7 +98,7 @@ There are a few [cases](https://www.ontario.ca/page/after-you-apply-osap) in whi
 - An OSAP reassessment is conducted, and it is determined that you were not entitled to all or part of the grant that you received (e.g., dropped courses, unreported income)
 - The income you reported on your OSAP application cannot be verified within one year from the start of your studies. This only applies to your Ontario Student Grant.
 
-## Continuation of studies but not taking OSAP?
+## Continuation of Studies but Not Taking OSAP?
 
 If you already have an outstanding OSAP loan and you plan to continue full-time or part-time studies without applying for an OSAP loan (i.e. you are paying for tuition out of pocket), you can still apply for continuation of interest-free status. This will prevent interest from accruing on your previous full-time loans. Simply apply for interest-free status on OSAP’s website.
 
@@ -112,7 +112,7 @@ If you already have an outstanding OSAP loan and you plan to continue full-time 
 
 For more info click [here](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019241.html).
 
-## OSAP Lifetime limit
+## OSAP Lifetime Limit
 
 There is a lifetime limit of 340 weeks for student loan funding. This converts to about 19 terms which OSAP will fund.
 
@@ -122,7 +122,7 @@ There is a lifetime limit of 340 weeks for student loan funding. This converts t
 
 If you are at the end of your studies and you do not have enough money to pay off your loans or do not want to extend your degree/continue your education, there may still be a way to avoid interest. The government can cover some or all interest charges depending on household size and gross income. Disabilities and special cases are taken into consideration during this eligibility assessment. To learn more click [here](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019256.html).
 
-### Monthly Gross Family Income Thresholds for Zero Payment under RAP by Family Size
+### Monthly Gross Family Income Thresholds for Zero Payment Under RAP by Family Size
 
 | Family Size | Income Threshold |
 | ----------- | ---------------- |
@@ -136,6 +136,6 @@ If you are at the end of your studies and you do not have enough money to pay of
 
 Check out the [repayment assistance estimator](http://tools.canlearn.ca/cslgs-scpse/cln-cln/rae-ear/rae-ear-1-eng.do) to get an idea of how much you may be able to get.
 
-## Paying with points
+## Paying With Points
 
 If you have points from credit cards you can check this [website](https://www.higheredpoints.com/) to see how you can make payments using them.

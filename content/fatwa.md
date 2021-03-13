@@ -1,4 +1,27 @@
+The following is a fatwa published by the Darul Ifta at [Jamiah Qasimul Uloom](http://www.jquloom.ca/)
 
+**Concise Answer**
+
+<center>باسمه تعالى حامدا ومصليا ومسلما</center>
+<center style="margin-bottom:10px">الجواب وباالله التوفيق</center>
+
+OSAP is a government program that finances students' tuitions. It consists of a grant (which is not paid back) and a loan (which may have to be paid back with interest).
+1. **Ruling of OSAP** - Under general circumstances, it will not be permissible to take the OSAP loan when paid back with interest. It will be permissible:
+    * To opt for the grant as interest is not involved.
+    * To take the loan if a person is confident they will pay it back before the interest
+period begins.
+2. **Dipensing Zakat** - The original Hanafi position states that both immediate and long term loans will be deducted from liable assets when calculating Zakat. According to the other opinion, individuals who take long term loans can deduct the loans due within the next 12 months only, unless they are destitute.1
+    * Thus, individuals who have taken long-term loans can deduct the expected loan due within the next 12 months.
+    * In a situation where the lender can demand the loan be paid back at any given moment, the entire sum will be deducted when calculating Zakat liable assets.
+3. **Receiving Zakat** - A person is eligible to receive Zakat if they own less than the quantum (nisab)2 after deducting debts from those assets which are in excess of their basic needs.
+4. **Sadaqat al-Fitr and Udhiya (Qurbani)** – Sadaqat al-Fitr and Udhiya (Qurbani) are incumbent if a person owns the nisab or more after deducting debts from those assets which are in excess of their basic needs. Sadaqat al-Fitr and Udhiya (Qurbani)3 may be incumbent upon a person although Zakat may not be. See detailed answer.
+5. **Hajj** – Hajj is mandatory on those who possess sufficient means to perform Hajj after subtracting personal expenditures and due debts from their assets.
+
+**Detailed Answer**
+
+The full fatwa can be found [here](https://drive.google.com/file/d/10qSGOclCN296p2XlpuJTqWU0G6qpyBUy/view?usp=sharing).
+
+---
 The following is an answer from [Darul Uloom Canada](https://www.ducanada.org/)
 
 **Re: OSAP query**

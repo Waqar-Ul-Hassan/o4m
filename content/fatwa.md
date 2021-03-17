@@ -10,7 +10,7 @@ OSAP is a government program that finances students' tuitions. It consists of a 
     * To opt for the grant as interest is not involved.
     * To take the loan if a person is confident they will pay it back before the interest
 period begins.
-2. **Dipensing Zakat** - The original Hanafi position states that both immediate and long term loans will be deducted from liable assets when calculating Zakat. According to the other opinion, individuals who take long term loans can deduct the loans due within the next 12 months only, unless they are destitute.<sup>1</sup>
+2. **Dispensing Zakat** - The original Hanafi position states that both immediate and long term loans will be deducted from liable assets when calculating Zakat. According to the other opinion, individuals who take long term loans can deduct the loans due within the next 12 months only, unless they are destitute.<sup>1</sup>
     * Thus, individuals who have taken long-term loans can deduct the expected loan due within the next 12 months.
     * In a situation where the lender can demand the loan be paid back at any given moment, the entire sum will be deducted when calculating Zakat liable assets.
 3. **Receiving Zakat** - A person is eligible to receive Zakat if they own less than the quantum (nisab)<sup>2</sup> after deducting debts from those assets which are in excess of their basic needs.

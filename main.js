@@ -42,7 +42,7 @@ const fatwa = {
 };
 const policies = {
   template:
-    '<div><div class="alert alert-warning">Information on COVID related OSAP changes can be found <a href="https://www.ousa.ca/blog_covid_osap_changes_explained">here</a></div ><h3 id="second"><u>Important Policies and Definitions</u></h3><br/><zero-md src="./content/policies.md"></zero-md></div>',
+    '<div><div class="alert alert-warning">Information on COVID related OSAP changes can be found <a href="https://www.ousa.ca/blog_covid_osap_changes_explained">here</a></div><div><zero-md src="./content/news.md"></zero-md></div><br><h3 id="second"><u>Important Policies and Definitions</u></h3><br/><zero-md src="./content/policies.md"></zero-md></div>',
 };
 const advice = {
   template:

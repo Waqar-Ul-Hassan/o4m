@@ -12,4 +12,6 @@ Don't worry, we don't like spam emails either. We'll only email when we need to.
 
 ### Donate
 
+Bless up
+
 <Donation/>

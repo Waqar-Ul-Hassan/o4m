@@ -1,22 +1,13 @@
 <template>
   <div class="container">
-    <!-- <p class="demo">
-      {{ msg }}
-    </p> -->
-    <button class="donation-button">Donate</button>
+    <a
+      href="https://www.paypal.com/donate/?hosted_button_id=NTU697EW88QFW"
+      target="_blank"
+    >
+      <button class="donation-button">Donate</button>
+    </a>
   </div>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      msg: "Hello this is <demo-1>",
-    };
-  },
-};
-</script>
-
 
 <style lang="stylus" scoped>
 .container {

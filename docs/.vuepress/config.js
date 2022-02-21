@@ -1,6 +1,17 @@
 module.exports = {
     title: 'OSAP for Muslims',
     description: 'A guide on avoiding interest',
+    plugins: [
+        ['@vuepress/search', {
+            searchMaxSuggestions: 10
+        }],
+        ['@vuepress/back-to-top'],
+        ['@vuepress/last-updated', {
+            dateOptions: {
+                year: 'numeric', month: 'long', day: 'numeric'
+            }
+        }]
+    ],
     themeConfig: {
         nav: [
             { text: 'Guide', link: '/' },

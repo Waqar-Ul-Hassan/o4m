@@ -1,5 +1,5 @@
 <template>
-  <form class="w-full max-w-lg">
+  <form class="w-full">
     <div class="flex flex-wrap -mx-3 mb-6">
       <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
         <label
@@ -13,7 +13,7 @@
           "
           for="grid-first-name"
         >
-          First Name
+          Name
         </label>
         <input
           class="
@@ -22,7 +22,7 @@
             w-full
             bg-gray-200
             text-gray-700
-            border border-red-500
+            border border-gray-200
             rounded
             py-3
             px-4
@@ -32,9 +32,7 @@
           "
           id="grid-first-name"
           type="text"
-          placeholder="Jane"
         />
-        <p class="text-red-500 text-xs italic">Please fill out this field.</p>
       </div>
       <div class="w-full md:w-1/2 px-3">
         <label
@@ -48,7 +46,7 @@
           "
           for="grid-last-name"
         >
-          Last Name
+          Email
         </label>
         <input
           class="
@@ -66,7 +64,6 @@
           "
           id="grid-last-name"
           type="text"
-          placeholder="Doe"
         />
       </div>
     </div>
@@ -83,7 +80,7 @@
           "
           for="grid-password"
         >
-          Password
+          Comments/Feedback
         </label>
         <input
           class="
@@ -101,14 +98,25 @@
             focus:outline-none focus:bg-white focus:border-gray-500
           "
           id="grid-password"
-          type="password"
-          placeholder="******************"
         />
-        <p class="text-gray-600 text-xs italic">
-          Make it as long and as crazy as you'd like
-        </p>
+        <p class="text-gray-600 text-xs italic"></p>
       </div>
     </div>
+    <button
+      class="
+        bg-o4m-blue
+        hover:bg-blue-600
+        text-white
+        font-bold
+        py-2
+        px-4
+        rounded
+        inline-flex
+        items-center
+      "
+    >
+      <span>Submit</span>
+    </button>
   </form>
 </template>
 

@@ -5,7 +5,11 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'o4m-blue': '#0099CC',
+      }
+    },
   },
   variants: {},
   plugins: [],

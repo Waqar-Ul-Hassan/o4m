@@ -30,4 +30,8 @@
 button:hover {
   background-color: #CBD5E0;
 }
+
+a {
+  color: inherit;
+}
 </style>

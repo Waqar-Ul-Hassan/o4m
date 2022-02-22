@@ -1,6 +1,6 @@
 ### About Us
 
-This website was made by members of [Samāha](https://samaha.one/), a nonprofit organization focused on helping the Muslim community at large using the diverse set of talents from students, muslim professionals and scholars in order to attain the pleasure of Allah ‎ﷻ 
+This website was made by a small team at [Samāha](https://samaha.one/), a nonprofit organization focused on providing solutions to issues uniquely facing the Muslim community. Our team is made up of software engineers, designers, scholars and general volunteers who are all students and professionals investing their extra time on our projects. We're working on a few other products currently so if you've benefitted from this site, or would like to support our future endeavors, please consider donating. May Allah ‎ﷻ accept our work and grant us the ability to continue in the service of deen. Ameen.
 
 <Donation/>
 

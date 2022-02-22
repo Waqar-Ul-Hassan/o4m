@@ -1,4 +1,4 @@
-# Pay off interest-accruing portion
+# Pay off interest-accruing portion <Badge text="New" type="warning"/>
 It’s been brought to our attention by members of the community and corroborated by our own team that it’s possible to pay off just the provincial (interest-accruing) portion of the loan in lump sum. The amount is usually much smaller than the federal portion so this is a huge benefit for those who would like to avoid interest.
 
 To check the amount, log into your NSLSC account. Once you’re on your dashboard, under “Funding Summary”, click the link to your loan. You should see a breakdown of your loan with the interest rates.

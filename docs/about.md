@@ -8,7 +8,7 @@ If you would like to stay in the loop about our future projects or would like to
 
 Don't worry, we don't like spam emails either. We'll only email when we need to.
 
-
+<Form/>
 
 ### Donate
 

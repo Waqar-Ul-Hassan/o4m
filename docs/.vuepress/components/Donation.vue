@@ -12,8 +12,6 @@
 <style lang="stylus" scoped>
 .container {
   display: flex;
-  flex-direction: row;
-  align-items: center;
   justify-content: center;
   margin-block: 16px;
 }

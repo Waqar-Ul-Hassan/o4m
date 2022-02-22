@@ -2,6 +2,8 @@
 
 This website was made by members of [Samāha](https://samaha.one/), a nonprofit organization focused on helping the Muslim community at large using the diverse set of talents from students, muslim professionals and scholars in order to attain the pleasure of Allah ‎ﷻ 
 
+<Donation/>
+
 ### Contact Us
 
 If you would like to stay in the loop about our future projects or would like to get involved please leave your email below.
@@ -9,9 +11,3 @@ If you would like to stay in the loop about our future projects or would like to
 Don't worry, we don't like spam emails either. We'll only email when we need to.
 
 <Form/>
-
-### Donate
-
-Bless up
-
-<Donation/>

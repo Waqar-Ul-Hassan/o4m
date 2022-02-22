@@ -1,5 +1,5 @@
 <template>
-  <form class="w-full">
+  <form class="w-full" id="contactForm" name="feedback" data-netlify="true">
     <div class="flex flex-wrap -mx-3 mb-6">
       <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
         <label
@@ -32,6 +32,7 @@
           "
           id="grid-first-name"
           type="text"
+          name="name"
         />
       </div>
       <div class="w-full md:w-1/2 px-3">
@@ -64,6 +65,7 @@
           "
           id="grid-last-name"
           type="text"
+          name="email"
         />
       </div>
     </div>
@@ -98,6 +100,7 @@
             focus:outline-none focus:bg-white focus:border-gray-500
           "
           id="grid-password"
+          name="comments"
         />
         <p class="text-gray-600 text-xs italic"></p>
       </div>
@@ -114,6 +117,7 @@
         inline-flex
         items-center
       "
+      type="button"
     >
       <span>Submit</span>
     </button>

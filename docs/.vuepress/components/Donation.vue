@@ -13,7 +13,7 @@
 .container {
   display: flex;
   justify-content: center;
-  margin-block: 16px;
+  margin-top: 23px;
 }
 
 .donation-button {

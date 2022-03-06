@@ -133,13 +133,13 @@
 </template>
 
 <script setup>
-export default {
-  methods: {
-    async submitForm() {
-      alert("Thank you for submitting");
-    },
-  },
-};
+// export default {
+//   methods: {
+//     async submitForm() {
+//       alert("Thank you for submitting");
+//     },
+//   },
+// };
 </script>
 
 <style scoped>

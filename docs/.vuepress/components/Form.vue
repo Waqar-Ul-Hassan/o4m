@@ -123,7 +123,7 @@
         inline-flex
         items-center
       "
-      type="button"
+      type="submit"
     >
       <span>Submit</span>
     </button>

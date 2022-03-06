@@ -1,6 +1,9 @@
 module.exports = {
     title: 'OSAP for Muslims',
     description: 'A guide on avoiding interest',
+    head: [
+        ['link', { rel: 'icon', href: '/logo.png' }]
+    ],
     plugins: [
         ['@vuepress/search', {
             searchMaxSuggestions: 10

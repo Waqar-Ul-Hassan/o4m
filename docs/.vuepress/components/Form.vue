@@ -5,6 +5,7 @@
     name="feedback-v2"
     method="post"
     data-netlify="true"
+    @submit.prevent="submitForm"
   >
     <div class="flex flex-wrap -mx-3 mb-6">
       <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
@@ -106,6 +107,7 @@
             focus:outline-none focus:bg-white focus:border-gray-500
           "
           id="grid-password"
+          type="text"
           name="comments"
         />
         <p class="text-gray-600 text-xs italic"></p>
@@ -131,6 +133,13 @@
 </template>
 
 <script setup>
+export default {
+  methods: {
+    async submitForm() {
+      alert("Thank you for submitting");
+    },
+  },
+};
 </script>
 
 <style scoped>

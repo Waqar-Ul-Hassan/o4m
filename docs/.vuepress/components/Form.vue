@@ -1,5 +1,11 @@
 <template>
-  <form class="w-full" id="contactForm" name="feedback" data-netlify="true">
+  <form
+    class="w-full"
+    id="contactForm"
+    name="feedback-v2"
+    method="post"
+    data-netlify="true"
+  >
     <div class="flex flex-wrap -mx-3 mb-6">
       <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
         <label

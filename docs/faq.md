@@ -1,17 +1,17 @@
 ### FAQ
 
-1. I just finished my 2nd year in a business program. I am not taking any summer courses, and I received an offer for a 4 month co-op in the fall term (Sept-Dec) of the upcoming year. Will I still have interest free status?
+**1. I just finished my 2nd year in a business program. I am not taking any summer courses, and I received an offer for a 4 month co-op in the fall term (Sept-Dec) of the upcoming year. Will I still have interest free status?**
 
 Ans: Anytime you take a break from school, a grace period is initiated. The maximum duration of the grace period is 6 months. If you return to full-time studies during the grace period, all interest charges that have accrued during your break will be removed. In this case, because your grace period starts at the beginning of May and finishes at the end of December (a total of 8 months) the interest charges will remain on your account. There are three possible solutions for avoiding interest in this case: (1) you enrol in full-time studies during the summer term or (2) try to somehow take a 60% course load during your co-op term or (3) you decline the coop position, and resume your full-time studies in September.
 
 Note: after the 6 month period you will also start to receive calls asking you to start repayment.
 
 
-2. I am in an engineering program, and I want to do an extra 8-month co-op starting in the winter term. However, I do not want to inform my university because I will have to pay the co-op fee. Would my OSAP loans still be interest free?
+**2. I am in an engineering program, and I want to do an extra 8-month co-op starting in the winter term. However, I do not want to inform my university because I will have to pay the co-op fee. Would my OSAP loans still be interest free?**
 
 Ans: If you do not inform your university then they cannot inform the financial aid office who in turn will not be able to confirm that you are still a student for OSAP purposes. Hence, according to OSAP, your status will either be that you left school or that you graduated. Unless you decide to somehow become a full-time student again within 6 months (take a 60% course load in the May-Aug summer term), you will accrue interest and will be asked to make payments 6 months into your coop. Since you are in an engineering program, you may be eligible for continuation of interest free status during coop depending on your university. If that is the case, we strongly recommend paying the extra coop fee because it will protect you from accruing interest charges.
 
 
-3. Zaid has $10,000 in Zakatable assets. In September 2020, he applies for OSAP to pay his university tuition which is $8000. OSAP gives him $8000 from which $5000 is a grant and $3000 is a loan that is to be repaid. December 30, 2020 which corresponds to the 15th of Jumada Al Ula, 1442 is Zaid’s Zakat anniversary. On this day, Zaid has a total of $10,000 in Zakatable assets. He also has a debt of $3000 which he owes to OSAP. Will Zaid deduct this $3000 from his Zakatable assets?
+**3. Zaid has $10,000 in Zakatable assets. In September 2020, he applies for OSAP to pay his university tuition which is $8000. OSAP gives him $8000 from which $5000 is a grant and $3000 is a loan that is to be repaid. December 30, 2020 which corresponds to the 15th of Jumada Al Ula, 1442 is Zaid’s Zakat anniversary. On this day, Zaid has a total of $10,000 in Zakatable assets. He also has a debt of $3000 which he owes to OSAP. Will Zaid deduct this $3000 from his Zakatable assets?**
 
 Ans: If Zaid does not plan on paying off the $3000 before the next Zakat anniversary (15th of Jumada Al Ula, 1443), he will not deduct the debt. Rather, he will pay Zakat on the entire amount of his Zakatable assets. If Zaid plans on actively paying off the $3000 before the next Zakat anniversary (15th of Jumada Al Ula, 1443) he can deduct the $3000 debt from his Zakatable assets and pay Zakat on $7000 if that equates to more than the Nisab at the time.

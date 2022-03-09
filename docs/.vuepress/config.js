@@ -29,19 +29,18 @@ module.exports = {
         ],
         sidebar: [
             {
-                title: 'Islamic Rulings',   // required
-                //path: '../rulings/fatwa',
-                collapsable: false, // optional, defaults to true
-                sidebarDepth: 0,    // optional, defaults to 1
+                title: 'Islamic Rulings',
+                collapsable: false,
+                sidebarDepth: 0,
                 children: [
                     'rulings/fatwa'
                 ]
 
             },
             {
-                title: 'Terminology',   // required
-                collapsable: false, // optional, defaults to true
-                sidebarDepth: 1,    // optional, defaults to 1
+                title: 'Terminology',
+                collapsable: false,
+                sidebarDepth: 1,
                 children: [
                     'terminology/grace',
                     'terminology/studentStatus',
@@ -49,9 +48,9 @@ module.exports = {
                 ]
             },
             {
-                title: 'Avoiding Interest',   // required
-                collapsable: false, // optional, defaults to true
-                sidebarDepth: 1,    // optional, defaults to 1
+                title: 'Avoiding Interest',
+                collapsable: false,
+                sidebarDepth: 1,
                 children: [
                     'avoidingInterest/avgStudent',
                     'avoidingInterest/break',
@@ -61,37 +60,36 @@ module.exports = {
                 ]
             },
             {
-                title: 'Repayment',   // required
-                //path: 'repayment/payOff',
-                collapsable: false, // optional, defaults to true
-                sidebarDepth: 1,    // optional, defaults to 1
+                title: 'Repayment',
+                collapsable: false,
+                sidebarDepth: 1,
                 children: [
                     'repayment/payOff',
                     'repayment/rap'
                 ]
             },
             {
-                title: 'Advice',   // required
+                title: 'Advice',
                 path: 'advice',
-                sidebarDepth: 0,    // optional, defaults to 1
+                sidebarDepth: 0,
             },
             {
-                title: 'Miscellaneous',   // required
+                title: 'Miscellaneous',
                 path: 'miscellaneous',
-                sidebarDepth: 0,    // optional, defaults to 1
+                sidebarDepth: 0,
             },
             {
-                title: 'Disclaimer',   // required
+                title: 'Disclaimer',
                 path: 'disclaimer',
-                sidebarDepth: 0,    // optional, defaults to 1
+                sidebarDepth: 0,
             },
             {
-                title: 'FAQ',   // required
+                title: 'FAQ',
                 path: 'faq',
                 sidebarDepth: 0,
             },
             {
-                title: 'Donate',   // required
+                title: 'Donate',
                 path: 'about',
                 sidebarDepth: 0,
             },

@@ -4,6 +4,6 @@ A guide on avoiding interest.
 
 ### Dev TODO:
 - ~~netlify from submissions~~
-- logo
-- link thumbnail/pwa
+- ~logo~
+- ~link thumbnail/pwa~
 - analytics implementation

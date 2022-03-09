@@ -4,9 +4,15 @@
     id="contactForm"
     name="feedback-v2"
     method="post"
+    netlify-honeypot="bot-field"
     data-netlify="true"
     @submit.prevent="submitForm"
   >
+    <p class="hidden">
+      <label>
+        Don’t fill this out if you’re human: <input name="bot-field" />
+      </label>
+    </p>
     <div class="flex flex-wrap -mx-3 mb-6">
       <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
         <label

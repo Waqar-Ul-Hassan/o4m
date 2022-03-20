@@ -1,6 +1,6 @@
 # Grace Period
 
-A Grace period is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t know is that during this period, interest starts to accumulate ([check "Pay back OSAP"](https://www.ontario.ca/page/pay-back-osap)). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are independent, and this is why: during the grace period, interest is not charged ([check "Non-repayment Period"](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)) on the federal portion of your loan, but it is charged on the provincial portion.* After the 6-month grace period, interest will accumulate on both components of the loan.
+A Grace period is a 6-month period that begins after you graduate or leave school. During this period, you are not expected to start repaying your loan. However, what many students don’t know is that during this period, interest starts to accumulate ([check "Pay back OSAP"](https://www.ontario.ca/page/pay-back-osap)). Earlier, we mentioned to take note that the Ontario (provincial) and Canada (federal) components of the loans are independent, and this is why: during the grace period, interest is not charged ([check "Non-repayment Period"](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)) on the federal portion of your loan, but it is charged on the provincial portion. After the 6-month grace period, interest will accumulate on both components of the loan.
 
 ::: tip Note
 After the [changes made by the provincial government](https://news.ontario.ca/maesd/en/2019/01/affordability-of-postsecondary-education-in-ontario.html), interest will be charged on the provincial portion of the loan during the grace period instead of the federal portion. Prior to September 1, 2019 interest would accrue on the federal portion but not the provincial portion.
@@ -15,10 +15,11 @@ It is only if you decide to **not** return to school for the fall semester that 
 | Loan Type   | Canada Portion | Provincial Portion |
 | ----------- | -------------- | ------------------ |
 | Canada – Ontario Integrated Student Loan | No Interest | Interest Accrues |
+| Part Time Canada Student Loan | No Interest | Not Applicable |
 
 Link to [table](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)
 
-## Interest Rates After Grace Period
+## Interest Rates After Grace Period (In Repayment)
 <table>
 	<thead>
 		<tr>
@@ -56,6 +57,7 @@ Link to [table](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)
 		</tr>
 	</tbody>
 </table>
+
 Link to [table](https://www.csnpe-nslsc.canada.ca/en/frequently-asked-questions)
 
 

@@ -54,7 +54,7 @@ module.exports = {
                 children: [
                     'avoidingInterest/avgStudent',
                     'avoidingInterest/break',
-                    'avoidingInterest/onProbation',
+                    'avoidingInterest/restriction',
                     'avoidingInterest/partTime',
                     'avoidingInterest/internships',
                 ]

@@ -1,7 +1,7 @@
-# Pay off interest-accruing portion <Badge text="New" type="warning"/>
-It’s been brought to our attention by members of the community and corroborated by our own team that it’s possible to pay off just the provincial (interest-accruing) portion of the loan in lump sum. The amount is usually much smaller than the federal portion so this is a huge benefit for those who would like to avoid interest.
+# Achieving a "True" Grace Period <Badge text="New" type="warning"/>
+In order to achieve a “true” grace period of 6 months (without any interest accruing on your outstanding loan), you must pay off the entire provincial portion of your loan prior to the start of your grace period. Note that after the 6 month grace period, even if the provincial portion is paid off, the federal portion will begin to accrue interest. 
 
-To check the amount, log into your NSLSC account. Once you’re on your dashboard, under “Funding Summary”, click the link to your loan. You should see a breakdown of your loan with the interest rates.
+To check the amount of your provincial loan, log into your NSLSC account. Once you’re on your dashboard, under “Funding Summary”, click the link to your loan. You should see a breakdown of your loan with the interest rates.
 
 How to pay off provincial portion in lump sum:
 1. Obtain a bank draft totalling the full provincial loan amount and make it out to the National Student Loans Service Centre (NSLSC). In the “RE” line put your student loan number. (can be found in the same “Funding Summary” page)

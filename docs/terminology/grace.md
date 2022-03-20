@@ -16,6 +16,8 @@ It is only if you decide to **not** return to school for the fall semester that 
 | ----------- | -------------- | ------------------ |
 | Canada – Ontario Integrated Student Loan | No Interest | Interest Accrues |
 
+Link to [table](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)
+
 ## Interest Rates After Grace Period
 <table>
 	<thead>
@@ -54,6 +56,8 @@ It is only if you decide to **not** return to school for the fall semester that 
 		</tr>
 	</tbody>
 </table>
+Link to [table](https://www.csnpe-nslsc.canada.ca/en/frequently-asked-questions)
+
 
 ## Extensions
 There are 2 ways to extend the grace period from 6 months to 1 year:

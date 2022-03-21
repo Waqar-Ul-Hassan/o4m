@@ -15,10 +15,10 @@ module.exports = {
             }
         }],
         [
-            '@vuepress/plugin-google-analytics',
+            '@vuepress/google-analytics',
             {
-                id: 'G-6F1749JMQQ',
-            },
+                'ga': 'UA-185764182-1 '
+            }
         ]
     ],
     postcss: {

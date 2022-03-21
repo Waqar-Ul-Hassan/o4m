@@ -6,6 +6,6 @@ This website provides Muslim students, who are recieving financial assistance fr
 
 [The "Grace Period" is NOT interest-free](terminology/grace.md)
 
-[Pay off only interest-accruing portion of loan](repayment/payOff.md) <Badge text="New" type="warning"/>
+[Achieving a "true" grace period](repayment/payOff.md) <Badge text="New" type="warning"/>
 
 [Dealing with Zakaat, Udhiya/Qurbani, Hajj/Umrah while taking OSAP](rulings/fatwa.md)

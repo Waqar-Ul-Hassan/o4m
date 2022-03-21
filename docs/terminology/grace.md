@@ -30,9 +30,9 @@ Link to [table](https://www.csnpe-nslsc.canada.ca/en/stages-of-a-loan)
 		<tr>
 			<td>&nbsp;</td>
 			<th id="floatingInterestCanada">Floating Interest rate</th>
-			<th id="fixedInterestCanada">Fixed Interest Rate *</th>
+			<th id="fixedInterestCanada">Fixed Interest Rate*</th>
 			<th id="floatingInterestProv">Floating Interest rate</th>
-			<th id="fixedInterestProv">Fixed Interest Rate *</th>
+			<th id="fixedInterestProv">Fixed Interest Rate*</th>
 		</tr>
 	</thead>
 	<tbody>

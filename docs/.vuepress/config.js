@@ -13,7 +13,13 @@ module.exports = {
             dateOptions: {
                 year: 'numeric', month: 'long', day: 'numeric'
             }
-        }]
+        }],
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'G-6F1749JMQQ' // UA-00000000-0
+            }
+        ]
     ],
     postcss: {
         plugins: [

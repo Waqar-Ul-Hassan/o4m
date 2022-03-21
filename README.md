@@ -7,3 +7,4 @@ A guide on avoiding interest.
 - ~logo~
 - ~link thumbnail/pwa~
 - analytics implementation
+- algolia search

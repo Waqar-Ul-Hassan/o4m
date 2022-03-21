@@ -1,4 +1,9 @@
-# o4m
-A website designed to inform muslims who are looking to/currently taking OSAP loans
+# OSAP For Muslims
 
-Research doc: https://docs.google.com/document/d/1alL1QCqxgWxRnWkzVt7dvJcoi5qlsF_HRp2cVqKBhOc/edit?usp=sharing
+A guide on avoiding interest.
+
+### Dev TODO:
+- ~~netlify from submissions~~
+- ~logo~
+- ~link thumbnail/pwa~
+- analytics implementation

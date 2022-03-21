@@ -1,0 +1,29 @@
+{
+  "name": "o4m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamahaCore/o4m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamahaCore/o4m/issues"
+  },
+  "homepage": "https://github.com/SamahaCore/o4m#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-google-analytics": "^1.9.7",
+    "@vuepress/plugin-search": "^1.9.7",
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}

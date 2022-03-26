@@ -3,7 +3,7 @@ module.exports = {
     removeDeprecatedGapUtilities: true,
     purgeLayersByDefault: true,
   },
-  purge: [],
+  purge: ["./docs/.vuepress/components/Form.vue"],
   theme: {
     extend: {
       colors: {
